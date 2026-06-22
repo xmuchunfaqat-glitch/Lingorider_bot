@@ -1,0 +1,72 @@
+{
+  "ingliz": [
+    "Hello, how are you?",
+    "Nice to meet you",
+    "I would like a cup of coffee",
+    "Where is the nearest bus station?",
+    "Could you repeat that, please?",
+    "I am learning English every day",
+    "What time does the store open?",
+    "Thank you very much for your help"
+  ],
+  "rus": [
+    "Привет, как дела?",
+    "Очень приятно познакомиться",
+    "Я хочу чашку кофе",
+    "Где находится автобусная остановка?",
+    "Повторите, пожалуйста",
+    "Я учу русский язык каждый день",
+    "Сколько это стоит?",
+    "Спасибо большое за помощь"
+  ],
+  "ispan": [
+    "Hola, ¿cómo estás?",
+    "Mucho gusto en conocerte",
+    "Quisiera una taza de café",
+    "¿Dónde está la parada de autobús?",
+    "¿Puedes repetirlo, por favor?",
+    "Estoy aprendiendo español todos los días",
+    "¿Cuánto cuesta esto?",
+    "Muchas gracias por tu ayuda"
+  ],
+  "turk": [
+    "Merhaba, nasılsın?",
+    "Tanıştığımıza memnun oldum",
+    "Bir fincan kahve istiyorum",
+    "En yakın otobüs durağı nerede?",
+    "Tekrar eder misiniz lütfen?",
+    "Her gün Türkçe öğreniyorum",
+    "Bu ne kadar?",
+    "Yardımınız için çok teşekkür ederim"
+  ],
+  "nemis": [
+    "Hallo, wie geht es dir?",
+    "Schön, dich kennenzulernen",
+    "Ich möchte eine Tasse Kaffee",
+    "Wo ist die nächste Bushaltestelle?",
+    "Könnten Sie das bitte wiederholen?",
+    "Ich lerne jeden Tag Deutsch",
+    "Wie viel kostet das?",
+    "Vielen Dank für Ihre Hilfe"
+  ],
+  "xitoy": [
+    "你好，你怎么样？",
+    "很高兴认识你",
+    "我想要一杯咖啡",
+    "最近的公交车站在哪里？",
+    "请你再说一次好吗？",
+    "我每天都在学习中文",
+    "这个多少钱？",
+    "非常感谢你的帮助"
+  ],
+  "italyan": [
+    "Ciao, come stai?",
+    "Piacere di conoscerti",
+    "Vorrei una tazza di caffè",
+    "Dov'è la fermata dell'autobus più vicina?",
+    "Puoi ripetere, per favore?",
+    "Sto imparando l'italiano ogni giorno",
+    "Quanto costa questo?",
+    "Grazie mille per il tuo aiuto"
+  ]
+}

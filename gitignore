@@ -1,0 +1,16 @@
+# Maxfiy ma'lumotlar — HECH QACHON GitHub'ga yuklamang
+.env
+
+# Ma'lumotlar bazasi va vaqtinchalik fayllar
+data/lingorider.db
+data/audio_cache/
+data/voice_tmp/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS
+.DS_Store
