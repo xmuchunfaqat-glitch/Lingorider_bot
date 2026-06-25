@@ -31,10 +31,9 @@ ASK_DAILY_ROUTINE = (
 )
 ASK_FOCUS_AREA = "Nimaga ko'proq e'tibor qaratishni xohlaysiz?"
 FOCUS_OPTIONS = [
-    "🗣 Talaffuz (Pronunciation)",
+    "🗣 Talaffuz va erkin gapirish",
     "📚 Grammatika",
     "🧠 Lug'at boyligi",
-    "💬 Erkin gapirish",
 ]
 
 ONBOARDING_DONE = (
@@ -45,7 +44,9 @@ ONBOARDING_DONE = (
 )
 
 MAIN_MENU_BUTTONS = [
-    "🎯 Kunlik mashq",
+    "🎯 Talaffuz mashqi",
+    "📚 Grammatika",
+    "🧠 Lug'at boyligi",
     "🤖 AI maslahat",
     "📊 Mening natijalarim",
     "⚙️ Sozlamalar",
@@ -53,7 +54,7 @@ MAIN_MENU_BUTTONS = [
 
 SETTINGS_MENU_BUTTONS = ["🌐 Tilni o'zgartirish", "🔁 Profilni qayta to'ldirish", "⬅️ Orqaga"]
 
-EXERCISE_INTRO = "🎧 Diqqat bilan tinglang va xuddi shunday talaffuz qiling:"
+EXERCISE_INTRO = "🎧 Diqqat bilan tinglang va xuddi shunday talaffuz qiling (yoki erkin gapirib ko'ring):"
 EXERCISE_PROMPT_TEXT = "Matn: <b>{text}</b>\n\nEndi ovozli xabar yuborib, shu so'z/jumlani talaffuz qiling 🎤"
 EXERCISE_NO_VOICE = "Iltimos, matn emas, <b>ovozli xabar</b> yuboring 🎤"
 EXERCISE_ANALYZING = "🔎 Talaffuzingiz tekshirilmoqda, bir necha soniya kuting..."
@@ -75,7 +76,20 @@ EXERCISE_RESULT_BAD = (
 EXERCISE_RETRY_BUTTON = "🔁 Qayta urinish"
 EXERCISE_NEXT_BUTTON = "➡️ Keyingisi"
 EXERCISE_STOP_BUTTON = "⛔️ Mashqni tugatish"
+EXERCISE_PAUSE_BUTTON = "⏸ Pauza"
 EXERCISE_FINISHED = "Bugungi mashq yakunlandi! 👏 Natijangiz hisobotga yozildi."
+EXERCISE_PAUSED = (
+    "⏸ Mashq pauza qilindi. Bosh menyuga qaytdingiz.\n"
+    "Davom ettirish uchun yana \"🎯 Talaffuz mashqi\" tugmasini bosing — "
+    "xuddi shu jumladan davom etamiz."
+)
+EXERCISE_RESUMED = "▶️ Pauza qilingan mashqni davom ettiramiz:"
+
+# --- Grammatika va Lug'at boyligi ---
+GRAMMAR_CHOOSE_TOPIC = "📚 <b>{language}</b> grammatikasi. Mavzuni tanlang 👇"
+VOCAB_CHOOSE_CATEGORY = "🧠 <b>{language}</b> lug'ati. Mavzuni tanlang 👇"
+VOCAB_WORD_LINE = "• <b>{word}</b> [{pronunciation}] — {meaning}"
+LEARN_BACK_TO_TOPICS = "⬅️ Mavzular ro'yxati"
 
 AI_ADVICE_THINKING = "🤖 Sizga mos maslahat tayyorlanmoqda..."
 AI_ADVICE_ERROR = "Hozircha AI maslahat xizmati band, birozdan keyin qayta urinib ko'ring."

@@ -64,3 +64,28 @@ def exercise_result_keyboard() -> InlineKeyboardMarkup:
     builder.button(text=texts.EXERCISE_STOP_BUTTON, callback_data="exercise:stop")
     builder.adjust(2, 1)
     return builder.as_markup()
+
+
+def exercise_wait_keyboard() -> InlineKeyboardMarkup:
+    """Ovozli javob kutilayotganda ko'rsatiladigan - pauza/to'xtatish tugmalari."""
+    builder = InlineKeyboardBuilder()
+    builder.button(text=texts.EXERCISE_PAUSE_BUTTON, callback_data="exercise:pause")
+    builder.button(text=texts.EXERCISE_STOP_BUTTON, callback_data="exercise:stop")
+    builder.adjust(2)
+    return builder.as_markup()
+
+
+def grammar_topics_keyboard(topics: list) -> InlineKeyboardMarkup:
+    builder = InlineKeyboardBuilder()
+    for index, topic in enumerate(topics):
+        builder.button(text=topic["title"], callback_data=f"grammar:{index}")
+    builder.adjust(1)
+    return builder.as_markup()
+
+
+def vocab_categories_keyboard(categories: list) -> InlineKeyboardMarkup:
+    builder = InlineKeyboardBuilder()
+    for category in categories:
+        builder.button(text=category, callback_data=f"vocab:{category}")
+    builder.adjust(1)
+    return builder.as_markup()
