@@ -1,0 +1,6435 @@
+{
+  "ingliz": {
+    "Salomlashish va muloqot": [
+      {
+        "word": "Hello",
+        "pronunciation": "heh-LOH",
+        "meaning": "Salom"
+      },
+      {
+        "word": "Goodbye",
+        "pronunciation": "good-BAI",
+        "meaning": "Xayr"
+      },
+      {
+        "word": "Thank you",
+        "pronunciation": "THANK-yoo",
+        "meaning": "Rahmat"
+      },
+      {
+        "word": "Please",
+        "pronunciation": "pleez",
+        "meaning": "Iltimos"
+      },
+      {
+        "word": "Sorry",
+        "pronunciation": "SO-ree",
+        "meaning": "Kechirasiz"
+      },
+      {
+        "word": "Yes",
+        "pronunciation": "yes",
+        "meaning": "Ha"
+      },
+      {
+        "word": "No",
+        "pronunciation": "noh",
+        "meaning": "Yo'q"
+      },
+      {
+        "word": "Good morning",
+        "pronunciation": "good MOR-ning",
+        "meaning": "Xayrli tong"
+      },
+      {
+        "word": "Good night",
+        "pronunciation": "good NAIT",
+        "meaning": "Xayrli tun"
+      },
+      {
+        "word": "How are you?",
+        "pronunciation": "hau ar yoo",
+        "meaning": "Qalaysiz?"
+      }
+    ],
+    "Oila": [
+      {
+        "word": "Mother",
+        "pronunciation": "MA-dhuh",
+        "meaning": "Ona"
+      },
+      {
+        "word": "Father",
+        "pronunciation": "FAA-dhuh",
+        "meaning": "Ota"
+      },
+      {
+        "word": "Sister",
+        "pronunciation": "SIS-tuh",
+        "meaning": "Opa/Singil"
+      },
+      {
+        "word": "Brother",
+        "pronunciation": "BRA-dhuh",
+        "meaning": "Aka/Uka"
+      },
+      {
+        "word": "Child",
+        "pronunciation": "chaild",
+        "meaning": "Bola"
+      },
+      {
+        "word": "Grandmother",
+        "pronunciation": "GRAND-ma-dhuh",
+        "meaning": "Buvi"
+      },
+      {
+        "word": "Grandfather",
+        "pronunciation": "GRAND-faa-dhuh",
+        "meaning": "Buva"
+      },
+      {
+        "word": "Wife",
+        "pronunciation": "waif",
+        "meaning": "Xotin"
+      },
+      {
+        "word": "Husband",
+        "pronunciation": "HAZ-buhnd",
+        "meaning": "Er"
+      },
+      {
+        "word": "Friend",
+        "pronunciation": "frend",
+        "meaning": "Do'st"
+      }
+    ],
+    "Raqamlar (1-20)": [
+      {
+        "word": "One",
+        "pronunciation": "wuhn",
+        "meaning": "Bir"
+      },
+      {
+        "word": "Two",
+        "pronunciation": "too",
+        "meaning": "Ikki"
+      },
+      {
+        "word": "Three",
+        "pronunciation": "three",
+        "meaning": "Uch"
+      },
+      {
+        "word": "Four",
+        "pronunciation": "for",
+        "meaning": "To'rt"
+      },
+      {
+        "word": "Five",
+        "pronunciation": "faiv",
+        "meaning": "Besh"
+      },
+      {
+        "word": "Six",
+        "pronunciation": "siks",
+        "meaning": "Olti"
+      },
+      {
+        "word": "Seven",
+        "pronunciation": "sev-uhn",
+        "meaning": "Yetti"
+      },
+      {
+        "word": "Eight",
+        "pronunciation": "ait",
+        "meaning": "Sakkiz"
+      },
+      {
+        "word": "Nine",
+        "pronunciation": "nain",
+        "meaning": "To'qqiz"
+      },
+      {
+        "word": "Ten",
+        "pronunciation": "ten",
+        "meaning": "O'n"
+      },
+      {
+        "word": "Eleven",
+        "pronunciation": "i-LEV-uhn",
+        "meaning": "O'n bir"
+      },
+      {
+        "word": "Twelve",
+        "pronunciation": "twelv",
+        "meaning": "O'n ikki"
+      },
+      {
+        "word": "Thirteen",
+        "pronunciation": "thur-TEEN",
+        "meaning": "O'n uch"
+      },
+      {
+        "word": "Fourteen",
+        "pronunciation": "for-TEEN",
+        "meaning": "O'n to'rt"
+      },
+      {
+        "word": "Fifteen",
+        "pronunciation": "fif-TEEN",
+        "meaning": "O'n besh"
+      },
+      {
+        "word": "Sixteen",
+        "pronunciation": "siks-TEEN",
+        "meaning": "O'n olti"
+      },
+      {
+        "word": "Seventeen",
+        "pronunciation": "sev-uhn-TEEN",
+        "meaning": "O'n yetti"
+      },
+      {
+        "word": "Eighteen",
+        "pronunciation": "ay-TEEN",
+        "meaning": "O'n sakkiz"
+      },
+      {
+        "word": "Nineteen",
+        "pronunciation": "nain-TEEN",
+        "meaning": "O'n to'qqiz"
+      },
+      {
+        "word": "Twenty",
+        "pronunciation": "TWEN-ee",
+        "meaning": "Yigirma"
+      }
+    ],
+    "Hafta kunlari": [
+      {
+        "word": "Monday",
+        "pronunciation": "MUHN-day",
+        "meaning": "Dushanba"
+      },
+      {
+        "word": "Tuesday",
+        "pronunciation": "TYOOZ-day",
+        "meaning": "Seshanba"
+      },
+      {
+        "word": "Wednesday",
+        "pronunciation": "WENZ-day",
+        "meaning": "Chorshanba"
+      },
+      {
+        "word": "Thursday",
+        "pronunciation": "THERZ-day",
+        "meaning": "Payshanba"
+      },
+      {
+        "word": "Friday",
+        "pronunciation": "FRAI-day",
+        "meaning": "Juma"
+      },
+      {
+        "word": "Saturday",
+        "pronunciation": "SAT-er-day",
+        "meaning": "Shanba"
+      },
+      {
+        "word": "Sunday",
+        "pronunciation": "SUHN-day",
+        "meaning": "Yakshanba"
+      }
+    ],
+    "Oylar": [
+      {
+        "word": "January",
+        "pronunciation": "JAN-yoo-eri",
+        "meaning": "Yanvar"
+      },
+      {
+        "word": "February",
+        "pronunciation": "FEB-roo-eri",
+        "meaning": "Fevral"
+      },
+      {
+        "word": "March",
+        "pronunciation": "march",
+        "meaning": "Mart"
+      },
+      {
+        "word": "April",
+        "pronunciation": "AY-pril",
+        "meaning": "Aprel"
+      },
+      {
+        "word": "May",
+        "pronunciation": "may",
+        "meaning": "May"
+      },
+      {
+        "word": "June",
+        "pronunciation": "joon",
+        "meaning": "Iyun"
+      },
+      {
+        "word": "July",
+        "pronunciation": "joo-LAI",
+        "meaning": "Iyul"
+      },
+      {
+        "word": "August",
+        "pronunciation": "AW-gust",
+        "meaning": "Avgust"
+      },
+      {
+        "word": "September",
+        "pronunciation": "sep-TEM-ber",
+        "meaning": "Sentabr"
+      },
+      {
+        "word": "October",
+        "pronunciation": "ok-TOH-ber",
+        "meaning": "Oktabr"
+      },
+      {
+        "word": "November",
+        "pronunciation": "no-VEM-ber",
+        "meaning": "Noyabr"
+      },
+      {
+        "word": "December",
+        "pronunciation": "di-SEM-ber",
+        "meaning": "Dekabr"
+      }
+    ],
+    "Ovqat-ichimlik": [
+      {
+        "word": "Bread",
+        "pronunciation": "bred",
+        "meaning": "Non"
+      },
+      {
+        "word": "Water",
+        "pronunciation": "WAW-tuh",
+        "meaning": "Suv"
+      },
+      {
+        "word": "Coffee",
+        "pronunciation": "KAW-fee",
+        "meaning": "Qahva"
+      },
+      {
+        "word": "Tea",
+        "pronunciation": "tee",
+        "meaning": "Choy"
+      },
+      {
+        "word": "Apple",
+        "pronunciation": "AP-uhl",
+        "meaning": "Olma"
+      },
+      {
+        "word": "Rice",
+        "pronunciation": "rais",
+        "meaning": "Guruch"
+      },
+      {
+        "word": "Meat",
+        "pronunciation": "meet",
+        "meaning": "Go'sht"
+      },
+      {
+        "word": "Milk",
+        "pronunciation": "milk",
+        "meaning": "Sut"
+      },
+      {
+        "word": "Egg",
+        "pronunciation": "eg",
+        "meaning": "Tuxum"
+      },
+      {
+        "word": "Sugar",
+        "pronunciation": "SHUG-uh",
+        "meaning": "Shakar"
+      },
+      {
+        "word": "Salt",
+        "pronunciation": "sawlt",
+        "meaning": "Tuz"
+      },
+      {
+        "word": "Soup",
+        "pronunciation": "soop",
+        "meaning": "Sho'rva"
+      },
+      {
+        "word": "Fish",
+        "pronunciation": "fish",
+        "meaning": "Baliq"
+      },
+      {
+        "word": "Vegetable",
+        "pronunciation": "VEJ-tuh-buhl",
+        "meaning": "Sabzavot"
+      },
+      {
+        "word": "Fruit",
+        "pronunciation": "froot",
+        "meaning": "Meva"
+      }
+    ],
+    "Ranglar": [
+      {
+        "word": "Red",
+        "pronunciation": "red",
+        "meaning": "Qizil"
+      },
+      {
+        "word": "Blue",
+        "pronunciation": "bloo",
+        "meaning": "Ko'k"
+      },
+      {
+        "word": "Green",
+        "pronunciation": "green",
+        "meaning": "Yashil"
+      },
+      {
+        "word": "Yellow",
+        "pronunciation": "YEL-oh",
+        "meaning": "Sariq"
+      },
+      {
+        "word": "Black",
+        "pronunciation": "blak",
+        "meaning": "Qora"
+      },
+      {
+        "word": "White",
+        "pronunciation": "wait",
+        "meaning": "Oq"
+      },
+      {
+        "word": "Orange",
+        "pronunciation": "OR-inj",
+        "meaning": "To'q sariq"
+      },
+      {
+        "word": "Pink",
+        "pronunciation": "pink",
+        "meaning": "Pushti"
+      },
+      {
+        "word": "Gray",
+        "pronunciation": "gray",
+        "meaning": "Kulrang"
+      },
+      {
+        "word": "Brown",
+        "pronunciation": "brown",
+        "meaning": "Jigarrang"
+      }
+    ],
+    "Tana qismlari": [
+      {
+        "word": "Head",
+        "pronunciation": "hed",
+        "meaning": "Bosh"
+      },
+      {
+        "word": "Eye",
+        "pronunciation": "ai",
+        "meaning": "Ko'z"
+      },
+      {
+        "word": "Hand",
+        "pronunciation": "hand",
+        "meaning": "Qo'l"
+      },
+      {
+        "word": "Leg",
+        "pronunciation": "leg",
+        "meaning": "Oyoq"
+      },
+      {
+        "word": "Ear",
+        "pronunciation": "eer",
+        "meaning": "Quloq"
+      },
+      {
+        "word": "Nose",
+        "pronunciation": "nohz",
+        "meaning": "Burun"
+      },
+      {
+        "word": "Mouth",
+        "pronunciation": "mauth",
+        "meaning": "Og'iz"
+      },
+      {
+        "word": "Heart",
+        "pronunciation": "hart",
+        "meaning": "Yurak"
+      },
+      {
+        "word": "Hair",
+        "pronunciation": "hehr",
+        "meaning": "Soch"
+      },
+      {
+        "word": "Tooth",
+        "pronunciation": "tooth",
+        "meaning": "Tish"
+      }
+    ],
+    "Hayvonlar": [
+      {
+        "word": "Dog",
+        "pronunciation": "dawg",
+        "meaning": "It"
+      },
+      {
+        "word": "Cat",
+        "pronunciation": "kat",
+        "meaning": "Mushuk"
+      },
+      {
+        "word": "Bird",
+        "pronunciation": "burd",
+        "meaning": "Qush"
+      },
+      {
+        "word": "Horse",
+        "pronunciation": "hors",
+        "meaning": "Ot"
+      },
+      {
+        "word": "Cow",
+        "pronunciation": "kau",
+        "meaning": "Sigir"
+      },
+      {
+        "word": "Sheep",
+        "pronunciation": "sheep",
+        "meaning": "Qo'y"
+      },
+      {
+        "word": "Lion",
+        "pronunciation": "LAI-uhn",
+        "meaning": "Sher"
+      },
+      {
+        "word": "Bear",
+        "pronunciation": "behr",
+        "meaning": "Ayiq"
+      },
+      {
+        "word": "Elephant",
+        "pronunciation": "EL-uh-fuhnt",
+        "meaning": "Fil"
+      },
+      {
+        "word": "Rabbit",
+        "pronunciation": "RAB-it",
+        "meaning": "Quyon"
+      }
+    ],
+    "Uy va buyumlar": [
+      {
+        "word": "House",
+        "pronunciation": "haus",
+        "meaning": "Uy"
+      },
+      {
+        "word": "Door",
+        "pronunciation": "dor",
+        "meaning": "Eshik"
+      },
+      {
+        "word": "Window",
+        "pronunciation": "WIN-doh",
+        "meaning": "Deraza"
+      },
+      {
+        "word": "Table",
+        "pronunciation": "TAY-buhl",
+        "meaning": "Stol"
+      },
+      {
+        "word": "Chair",
+        "pronunciation": "chehr",
+        "meaning": "Stul"
+      },
+      {
+        "word": "Bed",
+        "pronunciation": "bed",
+        "meaning": "Karavot"
+      },
+      {
+        "word": "Book",
+        "pronunciation": "book",
+        "meaning": "Kitob"
+      },
+      {
+        "word": "Pen",
+        "pronunciation": "pen",
+        "meaning": "Qalam"
+      },
+      {
+        "word": "Phone",
+        "pronunciation": "fohn",
+        "meaning": "Telefon"
+      },
+      {
+        "word": "Key",
+        "pronunciation": "kee",
+        "meaning": "Kalit"
+      }
+    ],
+    "Kiyim-kechak": [
+      {
+        "word": "Shirt",
+        "pronunciation": "shurt",
+        "meaning": "Ko'ylak"
+      },
+      {
+        "word": "Trousers",
+        "pronunciation": "TRAU-zerz",
+        "meaning": "Shim"
+      },
+      {
+        "word": "Shoes",
+        "pronunciation": "shooz",
+        "meaning": "Poyabzal"
+      },
+      {
+        "word": "Hat",
+        "pronunciation": "hat",
+        "meaning": "Shlyapa"
+      },
+      {
+        "word": "Dress",
+        "pronunciation": "dres",
+        "meaning": "Libos"
+      },
+      {
+        "word": "Jacket",
+        "pronunciation": "JAK-it",
+        "meaning": "Kurtka"
+      },
+      {
+        "word": "Socks",
+        "pronunciation": "saks",
+        "meaning": "Paypoq"
+      },
+      {
+        "word": "Bag",
+        "pronunciation": "bag",
+        "meaning": "Sumka"
+      }
+    ],
+    "Kasblar": [
+      {
+        "word": "Teacher",
+        "pronunciation": "TEE-chuh",
+        "meaning": "O'qituvchi"
+      },
+      {
+        "word": "Doctor",
+        "pronunciation": "DOK-tuh",
+        "meaning": "Shifokor"
+      },
+      {
+        "word": "Engineer",
+        "pronunciation": "en-juh-NEER",
+        "meaning": "Muhandis"
+      },
+      {
+        "word": "Driver",
+        "pronunciation": "DRAI-vuh",
+        "meaning": "Haydovchi"
+      },
+      {
+        "word": "Cook",
+        "pronunciation": "kook",
+        "meaning": "Oshpaz"
+      },
+      {
+        "word": "Police officer",
+        "pronunciation": "puh-LEES OF-i-suh",
+        "meaning": "Politsiya xodimi"
+      },
+      {
+        "word": "Student",
+        "pronunciation": "STOO-dent",
+        "meaning": "Talaba"
+      },
+      {
+        "word": "Worker",
+        "pronunciation": "WUR-kuh",
+        "meaning": "Ishchi"
+      },
+      {
+        "word": "Farmer",
+        "pronunciation": "FAR-muh",
+        "meaning": "Dehqon"
+      },
+      {
+        "word": "Nurse",
+        "pronunciation": "NURS",
+        "meaning": "Hamshira"
+      }
+    ],
+    "Vaqt va ob-havo": [
+      {
+        "word": "Today",
+        "pronunciation": "tuh-DAY",
+        "meaning": "Bugun"
+      },
+      {
+        "word": "Tomorrow",
+        "pronunciation": "tuh-MOR-oh",
+        "meaning": "Ertaga"
+      },
+      {
+        "word": "Yesterday",
+        "pronunciation": "YES-tuhr-day",
+        "meaning": "Kecha"
+      },
+      {
+        "word": "Sun",
+        "pronunciation": "suhn",
+        "meaning": "Quyosh"
+      },
+      {
+        "word": "Rain",
+        "pronunciation": "rayn",
+        "meaning": "Yomg'ir"
+      },
+      {
+        "word": "Snow",
+        "pronunciation": "snoh",
+        "meaning": "Qor"
+      },
+      {
+        "word": "Wind",
+        "pronunciation": "wind",
+        "meaning": "Shamol"
+      },
+      {
+        "word": "Hot",
+        "pronunciation": "hat",
+        "meaning": "Issiq"
+      },
+      {
+        "word": "Cold",
+        "pronunciation": "kohld",
+        "meaning": "Sovuq"
+      },
+      {
+        "word": "Cloud",
+        "pronunciation": "klaud",
+        "meaning": "Bulut"
+      }
+    ],
+    "Joylar": [
+      {
+        "word": "City",
+        "pronunciation": "SIT-ee",
+        "meaning": "Shahar"
+      },
+      {
+        "word": "Village",
+        "pronunciation": "VIL-ij",
+        "meaning": "Qishloq"
+      },
+      {
+        "word": "School",
+        "pronunciation": "skool",
+        "meaning": "Maktab"
+      },
+      {
+        "word": "Hospital",
+        "pronunciation": "HAS-pi-tuhl",
+        "meaning": "Kasalxona"
+      },
+      {
+        "word": "Market",
+        "pronunciation": "MAR-kit",
+        "meaning": "Bozor"
+      },
+      {
+        "word": "Airport",
+        "pronunciation": "EHR-port",
+        "meaning": "Aeroport"
+      },
+      {
+        "word": "Street",
+        "pronunciation": "street",
+        "meaning": "Ko'cha"
+      },
+      {
+        "word": "Park",
+        "pronunciation": "park",
+        "meaning": "Bog'"
+      },
+      {
+        "word": "Restaurant",
+        "pronunciation": "RES-tuh-rant",
+        "meaning": "Restoran"
+      },
+      {
+        "word": "Bank",
+        "pronunciation": "bank",
+        "meaning": "Bank"
+      }
+    ],
+    "Sifatlar": [
+      {
+        "word": "Big",
+        "pronunciation": "big",
+        "meaning": "Katta"
+      },
+      {
+        "word": "Small",
+        "pronunciation": "smawl",
+        "meaning": "Kichik"
+      },
+      {
+        "word": "Good",
+        "pronunciation": "good",
+        "meaning": "Yaxshi"
+      },
+      {
+        "word": "Bad",
+        "pronunciation": "bad",
+        "meaning": "Yomon"
+      },
+      {
+        "word": "New",
+        "pronunciation": "nyoo",
+        "meaning": "Yangi"
+      },
+      {
+        "word": "Old",
+        "pronunciation": "ohld",
+        "meaning": "Eski"
+      },
+      {
+        "word": "Fast",
+        "pronunciation": "fast",
+        "meaning": "Tez"
+      },
+      {
+        "word": "Slow",
+        "pronunciation": "sloh",
+        "meaning": "Sekin"
+      },
+      {
+        "word": "Beautiful",
+        "pronunciation": "BYOO-ti-fuhl",
+        "meaning": "Chiroyli"
+      },
+      {
+        "word": "Difficult",
+        "pronunciation": "DIF-i-kuhlt",
+        "meaning": "Qiyin"
+      }
+    ],
+    "Fe'llar": [
+      {
+        "word": "To go",
+        "pronunciation": "tu goh",
+        "meaning": "Bormoq"
+      },
+      {
+        "word": "To come",
+        "pronunciation": "tu kuhm",
+        "meaning": "Kelmoq"
+      },
+      {
+        "word": "To eat",
+        "pronunciation": "tu eet",
+        "meaning": "Yemoq"
+      },
+      {
+        "word": "To drink",
+        "pronunciation": "tu drink",
+        "meaning": "Ichmoq"
+      },
+      {
+        "word": "To sleep",
+        "pronunciation": "tu sleep",
+        "meaning": "Uxlamoq"
+      },
+      {
+        "word": "To work",
+        "pronunciation": "tu wurk",
+        "meaning": "Ishlamoq"
+      },
+      {
+        "word": "To read",
+        "pronunciation": "tu reed",
+        "meaning": "O'qimoq"
+      },
+      {
+        "word": "To write",
+        "pronunciation": "tu rait",
+        "meaning": "Yozmoq"
+      },
+      {
+        "word": "To speak",
+        "pronunciation": "tu speek",
+        "meaning": "Gapirmoq"
+      },
+      {
+        "word": "To see",
+        "pronunciation": "tu see",
+        "meaning": "Ko'rmoq"
+      },
+      {
+        "word": "To want",
+        "pronunciation": "tu want",
+        "meaning": "Xohlamoq"
+      },
+      {
+        "word": "To love",
+        "pronunciation": "tu luhv",
+        "meaning": "Sevmoq"
+      },
+      {
+        "word": "To know",
+        "pronunciation": "tu noh",
+        "meaning": "Bilmoq"
+      },
+      {
+        "word": "To do",
+        "pronunciation": "tu doo",
+        "meaning": "Qilmoq"
+      },
+      {
+        "word": "To give",
+        "pronunciation": "tu giv",
+        "meaning": "Bermoq"
+      }
+    ]
+  },
+  "rus": {
+    "Salomlashish va muloqot": [
+      {
+        "word": "Привет",
+        "pronunciation": "Privet",
+        "meaning": "Salom"
+      },
+      {
+        "word": "До свидания",
+        "pronunciation": "Da svidaniya",
+        "meaning": "Xayr"
+      },
+      {
+        "word": "Спасибо",
+        "pronunciation": "Spasibo",
+        "meaning": "Rahmat"
+      },
+      {
+        "word": "Пожалуйста",
+        "pronunciation": "Pazhalsta",
+        "meaning": "Iltimos"
+      },
+      {
+        "word": "Извините",
+        "pronunciation": "Izvinite",
+        "meaning": "Kechirasiz"
+      },
+      {
+        "word": "Да",
+        "pronunciation": "Da",
+        "meaning": "Ha"
+      },
+      {
+        "word": "Нет",
+        "pronunciation": "Nyet",
+        "meaning": "Yo'q"
+      },
+      {
+        "word": "Доброе утро",
+        "pronunciation": "Dobroye utro",
+        "meaning": "Xayrli tong"
+      },
+      {
+        "word": "Спокойной ночи",
+        "pronunciation": "Spokoynoy nochi",
+        "meaning": "Xayrli tun"
+      },
+      {
+        "word": "Как дела?",
+        "pronunciation": "Kak dela?",
+        "meaning": "Qalaysiz?"
+      }
+    ],
+    "Oila": [
+      {
+        "word": "Мама",
+        "pronunciation": "Mama",
+        "meaning": "Ona"
+      },
+      {
+        "word": "Папа",
+        "pronunciation": "Papa",
+        "meaning": "Ota"
+      },
+      {
+        "word": "Сестра",
+        "pronunciation": "Sestra",
+        "meaning": "Opa/Singil"
+      },
+      {
+        "word": "Брат",
+        "pronunciation": "Brat",
+        "meaning": "Aka/Uka"
+      },
+      {
+        "word": "Ребёнок",
+        "pronunciation": "Rebyonok",
+        "meaning": "Bola"
+      },
+      {
+        "word": "Бабушка",
+        "pronunciation": "Babushka",
+        "meaning": "Buvi"
+      },
+      {
+        "word": "Дедушка",
+        "pronunciation": "Dedushka",
+        "meaning": "Buva"
+      },
+      {
+        "word": "Жена",
+        "pronunciation": "Zhena",
+        "meaning": "Xotin"
+      },
+      {
+        "word": "Муж",
+        "pronunciation": "Muzh",
+        "meaning": "Er"
+      },
+      {
+        "word": "Друг",
+        "pronunciation": "Drug",
+        "meaning": "Do'st"
+      }
+    ],
+    "Raqamlar (1-20)": [
+      {
+        "word": "Один",
+        "pronunciation": "Odin",
+        "meaning": "Bir"
+      },
+      {
+        "word": "Два",
+        "pronunciation": "Dva",
+        "meaning": "Ikki"
+      },
+      {
+        "word": "Три",
+        "pronunciation": "Tri",
+        "meaning": "Uch"
+      },
+      {
+        "word": "Четыре",
+        "pronunciation": "Chetyre",
+        "meaning": "To'rt"
+      },
+      {
+        "word": "Пять",
+        "pronunciation": "Pyat'",
+        "meaning": "Besh"
+      },
+      {
+        "word": "Шесть",
+        "pronunciation": "Shest'",
+        "meaning": "Olti"
+      },
+      {
+        "word": "Семь",
+        "pronunciation": "Sem'",
+        "meaning": "Yetti"
+      },
+      {
+        "word": "Восемь",
+        "pronunciation": "Vosem'",
+        "meaning": "Sakkiz"
+      },
+      {
+        "word": "Девять",
+        "pronunciation": "Devyat'",
+        "meaning": "To'qqiz"
+      },
+      {
+        "word": "Десять",
+        "pronunciation": "Desyat'",
+        "meaning": "O'n"
+      },
+      {
+        "word": "Одиннадцать",
+        "pronunciation": "Odinnadtsat'",
+        "meaning": "O'n bir"
+      },
+      {
+        "word": "Двенадцать",
+        "pronunciation": "Dvenadtsat'",
+        "meaning": "O'n ikki"
+      },
+      {
+        "word": "Тринадцать",
+        "pronunciation": "Trinadtsat'",
+        "meaning": "O'n uch"
+      },
+      {
+        "word": "Четырнадцать",
+        "pronunciation": "Chetyrnadtsat'",
+        "meaning": "O'n to'rt"
+      },
+      {
+        "word": "Пятнадцать",
+        "pronunciation": "Pyatnadtsat'",
+        "meaning": "O'n besh"
+      },
+      {
+        "word": "Шестнадцать",
+        "pronunciation": "Shestnadtsat'",
+        "meaning": "O'n olti"
+      },
+      {
+        "word": "Семнадцать",
+        "pronunciation": "Semnadtsat'",
+        "meaning": "O'n yetti"
+      },
+      {
+        "word": "Восемнадцать",
+        "pronunciation": "Vosemnadtsat'",
+        "meaning": "O'n sakkiz"
+      },
+      {
+        "word": "Девятнадцать",
+        "pronunciation": "Devyatnadtsat'",
+        "meaning": "O'n to'qqiz"
+      },
+      {
+        "word": "Двадцать",
+        "pronunciation": "Dvadtsat'",
+        "meaning": "Yigirma"
+      }
+    ],
+    "Hafta kunlari": [
+      {
+        "word": "Понедельник",
+        "pronunciation": "Ponedel'nik",
+        "meaning": "Dushanba"
+      },
+      {
+        "word": "Вторник",
+        "pronunciation": "Vtornik",
+        "meaning": "Seshanba"
+      },
+      {
+        "word": "Среда",
+        "pronunciation": "Sreda",
+        "meaning": "Chorshanba"
+      },
+      {
+        "word": "Четверг",
+        "pronunciation": "Chetverg",
+        "meaning": "Payshanba"
+      },
+      {
+        "word": "Пятница",
+        "pronunciation": "Pyatnitsa",
+        "meaning": "Juma"
+      },
+      {
+        "word": "Субота",
+        "pronunciation": "Subbota",
+        "meaning": "Shanba"
+      },
+      {
+        "word": "Воскресенье",
+        "pronunciation": "Voskresenye",
+        "meaning": "Yakshanba"
+      }
+    ],
+    "Oylar": [
+      {
+        "word": "Январь",
+        "pronunciation": "Yanvar'",
+        "meaning": "Yanvar"
+      },
+      {
+        "word": "Февраль",
+        "pronunciation": "Fevral'",
+        "meaning": "Fevral"
+      },
+      {
+        "word": "Март",
+        "pronunciation": "Mart",
+        "meaning": "Mart"
+      },
+      {
+        "word": "Апрель",
+        "pronunciation": "Aprel'",
+        "meaning": "Aprel"
+      },
+      {
+        "word": "Май",
+        "pronunciation": "May",
+        "meaning": "May"
+      },
+      {
+        "word": "Июнь",
+        "pronunciation": "Iyun'",
+        "meaning": "Iyun"
+      },
+      {
+        "word": "Июль",
+        "pronunciation": "Iyul'",
+        "meaning": "Iyul"
+      },
+      {
+        "word": "Август",
+        "pronunciation": "Avgust",
+        "meaning": "Avgust"
+      },
+      {
+        "word": "Сентябрь",
+        "pronunciation": "Sentyabr'",
+        "meaning": "Sentabr"
+      },
+      {
+        "word": "Октябрь",
+        "pronunciation": "Oktyabr'",
+        "meaning": "Oktabr"
+      },
+      {
+        "word": "Ноябрь",
+        "pronunciation": "Noyabr'",
+        "meaning": "Noyabr"
+      },
+      {
+        "word": "Декабрь",
+        "pronunciation": "Dekabr'",
+        "meaning": "Dekabr"
+      }
+    ],
+    "Ovqat-ichimlik": [
+      {
+        "word": "Хлеб",
+        "pronunciation": "Khleb",
+        "meaning": "Non"
+      },
+      {
+        "word": "Вода",
+        "pronunciation": "Voda",
+        "meaning": "Suv"
+      },
+      {
+        "word": "Кофе",
+        "pronunciation": "Kofe",
+        "meaning": "Qahva"
+      },
+      {
+        "word": "Чай",
+        "pronunciation": "Chay",
+        "meaning": "Choy"
+      },
+      {
+        "word": "Яблоко",
+        "pronunciation": "Yabloko",
+        "meaning": "Olma"
+      },
+      {
+        "word": "Рис",
+        "pronunciation": "Ris",
+        "meaning": "Guruch"
+      },
+      {
+        "word": "Мясо",
+        "pronunciation": "Myaso",
+        "meaning": "Go'sht"
+      },
+      {
+        "word": "Молоко",
+        "pronunciation": "Moloko",
+        "meaning": "Sut"
+      },
+      {
+        "word": "Яйцо",
+        "pronunciation": "Yaytso",
+        "meaning": "Tuxum"
+      },
+      {
+        "word": "Сахар",
+        "pronunciation": "Sakhar",
+        "meaning": "Shakar"
+      },
+      {
+        "word": "Соль",
+        "pronunciation": "Sol'",
+        "meaning": "Tuz"
+      },
+      {
+        "word": "Суп",
+        "pronunciation": "Sup",
+        "meaning": "Sho'rva"
+      },
+      {
+        "word": "Рыба",
+        "pronunciation": "Ryba",
+        "meaning": "Baliq"
+      },
+      {
+        "word": "Овощ",
+        "pronunciation": "Ovoshch",
+        "meaning": "Sabzavot"
+      },
+      {
+        "word": "Фрукт",
+        "pronunciation": "Frukt",
+        "meaning": "Meva"
+      }
+    ],
+    "Ranglar": [
+      {
+        "word": "Красный",
+        "pronunciation": "Krasnyy",
+        "meaning": "Qizil"
+      },
+      {
+        "word": "Синий",
+        "pronunciation": "Siniy",
+        "meaning": "Ko'k"
+      },
+      {
+        "word": "Зелёный",
+        "pronunciation": "Zelyonyy",
+        "meaning": "Yashil"
+      },
+      {
+        "word": "Жёлтый",
+        "pronunciation": "Zholtyy",
+        "meaning": "Sariq"
+      },
+      {
+        "word": "Чёрный",
+        "pronunciation": "Chyornyy",
+        "meaning": "Qora"
+      },
+      {
+        "word": "Белый",
+        "pronunciation": "Belyy",
+        "meaning": "Oq"
+      },
+      {
+        "word": "Оранжевый",
+        "pronunciation": "Oranzhevyy",
+        "meaning": "To'q sariq"
+      },
+      {
+        "word": "Розовый",
+        "pronunciation": "Rozovyy",
+        "meaning": "Pushti"
+      },
+      {
+        "word": "Серый",
+        "pronunciation": "Seryy",
+        "meaning": "Kulrang"
+      },
+      {
+        "word": "Коричневый",
+        "pronunciation": "Korichnevyy",
+        "meaning": "Jigarrang"
+      }
+    ],
+    "Tana qismlari": [
+      {
+        "word": "Голова",
+        "pronunciation": "Golova",
+        "meaning": "Bosh"
+      },
+      {
+        "word": "Глаз",
+        "pronunciation": "Glaz",
+        "meaning": "Ko'z"
+      },
+      {
+        "word": "Рука",
+        "pronunciation": "Ruka",
+        "meaning": "Qo'l"
+      },
+      {
+        "word": "Нога",
+        "pronunciation": "Noga",
+        "meaning": "Oyoq"
+      },
+      {
+        "word": "Ухо",
+        "pronunciation": "Ukho",
+        "meaning": "Quloq"
+      },
+      {
+        "word": "Нос",
+        "pronunciation": "Nos",
+        "meaning": "Burun"
+      },
+      {
+        "word": "Рот",
+        "pronunciation": "Rot",
+        "meaning": "Og'iz"
+      },
+      {
+        "word": "Сердце",
+        "pronunciation": "Serdtse",
+        "meaning": "Yurak"
+      },
+      {
+        "word": "Волосы",
+        "pronunciation": "Volosy",
+        "meaning": "Soch"
+      },
+      {
+        "word": "Зуб",
+        "pronunciation": "Zub",
+        "meaning": "Tish"
+      }
+    ],
+    "Hayvonlar": [
+      {
+        "word": "Собака",
+        "pronunciation": "Sobaka",
+        "meaning": "It"
+      },
+      {
+        "word": "Кошка",
+        "pronunciation": "Koshka",
+        "meaning": "Mushuk"
+      },
+      {
+        "word": "Птица",
+        "pronunciation": "Ptitsa",
+        "meaning": "Qush"
+      },
+      {
+        "word": "Лошадь",
+        "pronunciation": "Loshad'",
+        "meaning": "Ot"
+      },
+      {
+        "word": "Корова",
+        "pronunciation": "Korova",
+        "meaning": "Sigir"
+      },
+      {
+        "word": "Овца",
+        "pronunciation": "Ovtsa",
+        "meaning": "Qo'y"
+      },
+      {
+        "word": "Лев",
+        "pronunciation": "Lev",
+        "meaning": "Sher"
+      },
+      {
+        "word": "Медведь",
+        "pronunciation": "Medved'",
+        "meaning": "Ayiq"
+      },
+      {
+        "word": "Слон",
+        "pronunciation": "Slon",
+        "meaning": "Fil"
+      },
+      {
+        "word": "Кролик",
+        "pronunciation": "Krolik",
+        "meaning": "Quyon"
+      }
+    ],
+    "Uy va buyumlar": [
+      {
+        "word": "Дом",
+        "pronunciation": "Dom",
+        "meaning": "Uy"
+      },
+      {
+        "word": "Дверь",
+        "pronunciation": "Dver'",
+        "meaning": "Eshik"
+      },
+      {
+        "word": "Окно",
+        "pronunciation": "Okno",
+        "meaning": "Deraza"
+      },
+      {
+        "word": "Стол",
+        "pronunciation": "Stol",
+        "meaning": "Stol"
+      },
+      {
+        "word": "Стул",
+        "pronunciation": "Stul",
+        "meaning": "Stul"
+      },
+      {
+        "word": "Кровать",
+        "pronunciation": "Krovat'",
+        "meaning": "Karavot"
+      },
+      {
+        "word": "Книга",
+        "pronunciation": "Kniga",
+        "meaning": "Kitob"
+      },
+      {
+        "word": "Ручка",
+        "pronunciation": "Ruchka",
+        "meaning": "Qalam"
+      },
+      {
+        "word": "Телефон",
+        "pronunciation": "Telefon",
+        "meaning": "Telefon"
+      },
+      {
+        "word": "Ключ",
+        "pronunciation": "Klyuch",
+        "meaning": "Kalit"
+      }
+    ],
+    "Kiyim-kechak": [
+      {
+        "word": "Рубашка",
+        "pronunciation": "Rubashka",
+        "meaning": "Ko'ylak"
+      },
+      {
+        "word": "Брюки",
+        "pronunciation": "Bryuki",
+        "meaning": "Shim"
+      },
+      {
+        "word": "Туфли",
+        "pronunciation": "Tufli",
+        "meaning": "Poyabzal"
+      },
+      {
+        "word": "Шляпа",
+        "pronunciation": "Shlyapa",
+        "meaning": "Shlyapa"
+      },
+      {
+        "word": "Платье",
+        "pronunciation": "Plat'ye",
+        "meaning": "Libos"
+      },
+      {
+        "word": "Куртка",
+        "pronunciation": "Kurtka",
+        "meaning": "Kurtka"
+      },
+      {
+        "word": "Носки",
+        "pronunciation": "Noski",
+        "meaning": "Paypoq"
+      },
+      {
+        "word": "Сумка",
+        "pronunciation": "Sumka",
+        "meaning": "Sumka"
+      }
+    ],
+    "Kasblar": [
+      {
+        "word": "Учитель",
+        "pronunciation": "Uchitel'",
+        "meaning": "O'qituvchi"
+      },
+      {
+        "word": "Врач",
+        "pronunciation": "Vrach",
+        "meaning": "Shifokor"
+      },
+      {
+        "word": "Инженер",
+        "pronunciation": "Inzhener",
+        "meaning": "Muhandis"
+      },
+      {
+        "word": "Водитель",
+        "pronunciation": "Voditel'",
+        "meaning": "Haydovchi"
+      },
+      {
+        "word": "Повар",
+        "pronunciation": "Povar",
+        "meaning": "Oshpaz"
+      },
+      {
+        "word": "Полицейский",
+        "pronunciation": "Politseyskiy",
+        "meaning": "Politsiya xodimi"
+      },
+      {
+        "word": "Студент",
+        "pronunciation": "Student",
+        "meaning": "Talaba"
+      },
+      {
+        "word": "Рабочий",
+        "pronunciation": "Rabochiy",
+        "meaning": "Ishchi"
+      },
+      {
+        "word": "Фермер",
+        "pronunciation": "Fermer",
+        "meaning": "Dehqon"
+      },
+      {
+        "word": "Медсестра",
+        "pronunciation": "Medsestra",
+        "meaning": "Hamshira"
+      }
+    ],
+    "Vaqt va ob-havo": [
+      {
+        "word": "Сегодня",
+        "pronunciation": "Sevodnya",
+        "meaning": "Bugun"
+      },
+      {
+        "word": "Завтра",
+        "pronunciation": "Zavtra",
+        "meaning": "Ertaga"
+      },
+      {
+        "word": "Вчера",
+        "pronunciation": "Vchera",
+        "meaning": "Kecha"
+      },
+      {
+        "word": "Солнце",
+        "pronunciation": "Solntse",
+        "meaning": "Quyosh"
+      },
+      {
+        "word": "Дождь",
+        "pronunciation": "Dozhd'",
+        "meaning": "Yomg'ir"
+      },
+      {
+        "word": "Снег",
+        "pronunciation": "Sneg",
+        "meaning": "Qor"
+      },
+      {
+        "word": "Ветер",
+        "pronunciation": "Veter",
+        "meaning": "Shamol"
+      },
+      {
+        "word": "Жарко",
+        "pronunciation": "Zharko",
+        "meaning": "Issiq"
+      },
+      {
+        "word": "Холодно",
+        "pronunciation": "Kholodno",
+        "meaning": "Sovuq"
+      },
+      {
+        "word": "Облако",
+        "pronunciation": "Oblako",
+        "meaning": "Bulut"
+      }
+    ],
+    "Joylar": [
+      {
+        "word": "Город",
+        "pronunciation": "Gorod",
+        "meaning": "Shahar"
+      },
+      {
+        "word": "Деревня",
+        "pronunciation": "Derevnya",
+        "meaning": "Qishloq"
+      },
+      {
+        "word": "Школа",
+        "pronunciation": "Shkola",
+        "meaning": "Maktab"
+      },
+      {
+        "word": "Больница",
+        "pronunciation": "Bol'nitsa",
+        "meaning": "Kasalxona"
+      },
+      {
+        "word": "Рынок",
+        "pronunciation": "Rynok",
+        "meaning": "Bozor"
+      },
+      {
+        "word": "Аэропорт",
+        "pronunciation": "Aeroport",
+        "meaning": "Aeroport"
+      },
+      {
+        "word": "Улица",
+        "pronunciation": "Ulitsa",
+        "meaning": "Ko'cha"
+      },
+      {
+        "word": "Парк",
+        "pronunciation": "Park",
+        "meaning": "Bog'"
+      },
+      {
+        "word": "Ресторан",
+        "pronunciation": "Restoran",
+        "meaning": "Restoran"
+      },
+      {
+        "word": "Банк",
+        "pronunciation": "Bank",
+        "meaning": "Bank"
+      }
+    ],
+    "Sifatlar": [
+      {
+        "word": "Большой",
+        "pronunciation": "Bol'shoy",
+        "meaning": "Katta"
+      },
+      {
+        "word": "Маленький",
+        "pronunciation": "Malen'kiy",
+        "meaning": "Kichik"
+      },
+      {
+        "word": "Хороший",
+        "pronunciation": "Khoroshiy",
+        "meaning": "Yaxshi"
+      },
+      {
+        "word": "Плохой",
+        "pronunciation": "Plokhoy",
+        "meaning": "Yomon"
+      },
+      {
+        "word": "Новый",
+        "pronunciation": "Novyy",
+        "meaning": "Yangi"
+      },
+      {
+        "word": "Старый",
+        "pronunciation": "Staryy",
+        "meaning": "Eski"
+      },
+      {
+        "word": "Быстрый",
+        "pronunciation": "Bystryy",
+        "meaning": "Tez"
+      },
+      {
+        "word": "Медленный",
+        "pronunciation": "Medlennyy",
+        "meaning": "Sekin"
+      },
+      {
+        "word": "Красивый",
+        "pronunciation": "Krasivyy",
+        "meaning": "Chiroyli"
+      },
+      {
+        "word": "Трудный",
+        "pronunciation": "Trudnyy",
+        "meaning": "Qiyin"
+      }
+    ],
+    "Fe'llar": [
+      {
+        "word": "Идти",
+        "pronunciation": "Idti",
+        "meaning": "Bormoq"
+      },
+      {
+        "word": "Приходить",
+        "pronunciation": "Prikhodit'",
+        "meaning": "Kelmoq"
+      },
+      {
+        "word": "Есть",
+        "pronunciation": "Yest'",
+        "meaning": "Yemoq"
+      },
+      {
+        "word": "Пить",
+        "pronunciation": "Pit'",
+        "meaning": "Ichmoq"
+      },
+      {
+        "word": "Спать",
+        "pronunciation": "Spat'",
+        "meaning": "Uxlamoq"
+      },
+      {
+        "word": "Работать",
+        "pronunciation": "Rabotat'",
+        "meaning": "Ishlamoq"
+      },
+      {
+        "word": "Читать",
+        "pronunciation": "Chitat'",
+        "meaning": "O'qimoq"
+      },
+      {
+        "word": "Писать",
+        "pronunciation": "Pisat'",
+        "meaning": "Yozmoq"
+      },
+      {
+        "word": "Говорить",
+        "pronunciation": "Govorit'",
+        "meaning": "Gapirmoq"
+      },
+      {
+        "word": "Видеть",
+        "pronunciation": "Videt'",
+        "meaning": "Ko'rmoq"
+      },
+      {
+        "word": "Хотеть",
+        "pronunciation": "Khotet'",
+        "meaning": "Xohlamoq"
+      },
+      {
+        "word": "Любить",
+        "pronunciation": "Lyubit'",
+        "meaning": "Sevmoq"
+      },
+      {
+        "word": "Знать",
+        "pronunciation": "Znat'",
+        "meaning": "Bilmoq"
+      },
+      {
+        "word": "Делать",
+        "pronunciation": "Delat'",
+        "meaning": "Qilmoq"
+      },
+      {
+        "word": "Давать",
+        "pronunciation": "Davat'",
+        "meaning": "Bermoq"
+      }
+    ]
+  },
+  "ispan": {
+    "Salomlashish va muloqot": [
+      {
+        "word": "Hola",
+        "pronunciation": "OH-la",
+        "meaning": "Salom"
+      },
+      {
+        "word": "Adiós",
+        "pronunciation": "a-DYOS",
+        "meaning": "Xayr"
+      },
+      {
+        "word": "Gracias",
+        "pronunciation": "GRA-syas",
+        "meaning": "Rahmat"
+      },
+      {
+        "word": "Por favor",
+        "pronunciation": "por fa-VOR",
+        "meaning": "Iltimos"
+      },
+      {
+        "word": "Perdón",
+        "pronunciation": "per-DON",
+        "meaning": "Kechirasiz"
+      },
+      {
+        "word": "Sí",
+        "pronunciation": "see",
+        "meaning": "Ha"
+      },
+      {
+        "word": "No",
+        "pronunciation": "no",
+        "meaning": "Yo'q"
+      },
+      {
+        "word": "Buenos días",
+        "pronunciation": "BWE-nos DEE-as",
+        "meaning": "Xayrli tong"
+      },
+      {
+        "word": "Buenas noches",
+        "pronunciation": "BWE-nas NO-ches",
+        "meaning": "Xayrli tun"
+      },
+      {
+        "word": "¿Cómo estás?",
+        "pronunciation": "KO-mo es-TAS",
+        "meaning": "Qalaysiz?"
+      }
+    ],
+    "Oila": [
+      {
+        "word": "Madre",
+        "pronunciation": "MA-dre",
+        "meaning": "Ona"
+      },
+      {
+        "word": "Padre",
+        "pronunciation": "PA-dre",
+        "meaning": "Ota"
+      },
+      {
+        "word": "Hermana",
+        "pronunciation": "er-MA-na",
+        "meaning": "Opa/Singil"
+      },
+      {
+        "word": "Hermano",
+        "pronunciation": "er-MA-no",
+        "meaning": "Aka/Uka"
+      },
+      {
+        "word": "Niño",
+        "pronunciation": "NEE-nyo",
+        "meaning": "Bola"
+      },
+      {
+        "word": "Abuela",
+        "pronunciation": "a-BWE-la",
+        "meaning": "Buvi"
+      },
+      {
+        "word": "Abuelo",
+        "pronunciation": "a-BWE-lo",
+        "meaning": "Buva"
+      },
+      {
+        "word": "Esposa",
+        "pronunciation": "es-PO-sa",
+        "meaning": "Xotin"
+      },
+      {
+        "word": "Esposo",
+        "pronunciation": "es-PO-so",
+        "meaning": "Er"
+      },
+      {
+        "word": "Amigo",
+        "pronunciation": "a-MEE-go",
+        "meaning": "Do'st"
+      }
+    ],
+    "Raqamlar (1-20)": [
+      {
+        "word": "Uno",
+        "pronunciation": "OO-no",
+        "meaning": "Bir"
+      },
+      {
+        "word": "Dos",
+        "pronunciation": "dos",
+        "meaning": "Ikki"
+      },
+      {
+        "word": "Tres",
+        "pronunciation": "tres",
+        "meaning": "Uch"
+      },
+      {
+        "word": "Cuatro",
+        "pronunciation": "KWA-tro",
+        "meaning": "To'rt"
+      },
+      {
+        "word": "Cinco",
+        "pronunciation": "SEEN-ko",
+        "meaning": "Besh"
+      },
+      {
+        "word": "Seis",
+        "pronunciation": "seys",
+        "meaning": "Olti"
+      },
+      {
+        "word": "Siete",
+        "pronunciation": "SYE-te",
+        "meaning": "Yetti"
+      },
+      {
+        "word": "Ocho",
+        "pronunciation": "O-cho",
+        "meaning": "Sakkiz"
+      },
+      {
+        "word": "Nueve",
+        "pronunciation": "NWE-ve",
+        "meaning": "To'qqiz"
+      },
+      {
+        "word": "Diez",
+        "pronunciation": "dyes",
+        "meaning": "O'n"
+      },
+      {
+        "word": "Once",
+        "pronunciation": "ON-se",
+        "meaning": "O'n bir"
+      },
+      {
+        "word": "Doce",
+        "pronunciation": "DO-se",
+        "meaning": "O'n ikki"
+      },
+      {
+        "word": "Trece",
+        "pronunciation": "TRE-se",
+        "meaning": "O'n uch"
+      },
+      {
+        "word": "Catorce",
+        "pronunciation": "ka-TOR-se",
+        "meaning": "O'n to'rt"
+      },
+      {
+        "word": "Quince",
+        "pronunciation": "KEEN-se",
+        "meaning": "O'n besh"
+      },
+      {
+        "word": "Dieciséis",
+        "pronunciation": "dye-si-SEYS",
+        "meaning": "O'n olti"
+      },
+      {
+        "word": "Diecisiete",
+        "pronunciation": "dye-si-SYE-te",
+        "meaning": "O'n yetti"
+      },
+      {
+        "word": "Dieciocho",
+        "pronunciation": "dye-si-O-cho",
+        "meaning": "O'n sakkiz"
+      },
+      {
+        "word": "Diecinueve",
+        "pronunciation": "dye-si-NWE-ve",
+        "meaning": "O'n to'qqiz"
+      },
+      {
+        "word": "Veinte",
+        "pronunciation": "BEYN-te",
+        "meaning": "Yigirma"
+      }
+    ],
+    "Hafta kunlari": [
+      {
+        "word": "Lunes",
+        "pronunciation": "LOO-nes",
+        "meaning": "Dushanba"
+      },
+      {
+        "word": "Martes",
+        "pronunciation": "MAR-tes",
+        "meaning": "Seshanba"
+      },
+      {
+        "word": "Miércoles",
+        "pronunciation": "MYER-ko-les",
+        "meaning": "Chorshanba"
+      },
+      {
+        "word": "Jueves",
+        "pronunciation": "HWE-ves",
+        "meaning": "Payshanba"
+      },
+      {
+        "word": "Viernes",
+        "pronunciation": "VYER-nes",
+        "meaning": "Juma"
+      },
+      {
+        "word": "Sábado",
+        "pronunciation": "SA-ba-do",
+        "meaning": "Shanba"
+      },
+      {
+        "word": "Domingo",
+        "pronunciation": "do-MEEN-go",
+        "meaning": "Yakshanba"
+      }
+    ],
+    "Oylar": [
+      {
+        "word": "Enero",
+        "pronunciation": "e-NE-ro",
+        "meaning": "Yanvar"
+      },
+      {
+        "word": "Febrero",
+        "pronunciation": "fe-BRE-ro",
+        "meaning": "Fevral"
+      },
+      {
+        "word": "Marzo",
+        "pronunciation": "MAR-so",
+        "meaning": "Mart"
+      },
+      {
+        "word": "Abril",
+        "pronunciation": "a-BREEL",
+        "meaning": "Aprel"
+      },
+      {
+        "word": "Mayo",
+        "pronunciation": "MA-yo",
+        "meaning": "May"
+      },
+      {
+        "word": "Junio",
+        "pronunciation": "HOO-nyo",
+        "meaning": "Iyun"
+      },
+      {
+        "word": "Julio",
+        "pronunciation": "HOO-lyo",
+        "meaning": "Iyul"
+      },
+      {
+        "word": "Agosto",
+        "pronunciation": "a-GOS-to",
+        "meaning": "Avgust"
+      },
+      {
+        "word": "Septiembre",
+        "pronunciation": "sep-TYEM-bre",
+        "meaning": "Sentabr"
+      },
+      {
+        "word": "Octubre",
+        "pronunciation": "ok-TOO-bre",
+        "meaning": "Oktabr"
+      },
+      {
+        "word": "Noviembre",
+        "pronunciation": "no-VYEM-bre",
+        "meaning": "Noyabr"
+      },
+      {
+        "word": "Diciembre",
+        "pronunciation": "di-SYEM-bre",
+        "meaning": "Dekabr"
+      }
+    ],
+    "Ovqat-ichimlik": [
+      {
+        "word": "Pan",
+        "pronunciation": "pan",
+        "meaning": "Non"
+      },
+      {
+        "word": "Agua",
+        "pronunciation": "A-gwa",
+        "meaning": "Suv"
+      },
+      {
+        "word": "Café",
+        "pronunciation": "ka-FE",
+        "meaning": "Qahva"
+      },
+      {
+        "word": "Té",
+        "pronunciation": "te",
+        "meaning": "Choy"
+      },
+      {
+        "word": "Manzana",
+        "pronunciation": "man-SA-na",
+        "meaning": "Olma"
+      },
+      {
+        "word": "Arroz",
+        "pronunciation": "a-RROS",
+        "meaning": "Guruch"
+      },
+      {
+        "word": "Carne",
+        "pronunciation": "KAR-ne",
+        "meaning": "Go'sht"
+      },
+      {
+        "word": "Leche",
+        "pronunciation": "LE-che",
+        "meaning": "Sut"
+      },
+      {
+        "word": "Huevo",
+        "pronunciation": "WE-vo",
+        "meaning": "Tuxum"
+      },
+      {
+        "word": "Azúcar",
+        "pronunciation": "a-SOO-kar",
+        "meaning": "Shakar"
+      },
+      {
+        "word": "Sal",
+        "pronunciation": "sal",
+        "meaning": "Tuz"
+      },
+      {
+        "word": "Sopa",
+        "pronunciation": "SO-pa",
+        "meaning": "Sho'rva"
+      },
+      {
+        "word": "Pescado",
+        "pronunciation": "pes-KA-do",
+        "meaning": "Baliq"
+      },
+      {
+        "word": "Verdura",
+        "pronunciation": "ver-DOO-ra",
+        "meaning": "Sabzavot"
+      },
+      {
+        "word": "Fruta",
+        "pronunciation": "FROO-ta",
+        "meaning": "Meva"
+      }
+    ],
+    "Ranglar": [
+      {
+        "word": "Rojo",
+        "pronunciation": "RO-kho",
+        "meaning": "Qizil"
+      },
+      {
+        "word": "Azul",
+        "pronunciation": "a-SOOL",
+        "meaning": "Ko'k"
+      },
+      {
+        "word": "Verde",
+        "pronunciation": "VER-de",
+        "meaning": "Yashil"
+      },
+      {
+        "word": "Amarillo",
+        "pronunciation": "a-ma-REE-yo",
+        "meaning": "Sariq"
+      },
+      {
+        "word": "Negro",
+        "pronunciation": "NE-gro",
+        "meaning": "Qora"
+      },
+      {
+        "word": "Blanco",
+        "pronunciation": "BLAN-ko",
+        "meaning": "Oq"
+      },
+      {
+        "word": "Naranja",
+        "pronunciation": "na-RAN-kha",
+        "meaning": "To'q sariq"
+      },
+      {
+        "word": "Rosa",
+        "pronunciation": "RO-sa",
+        "meaning": "Pushti"
+      },
+      {
+        "word": "Gris",
+        "pronunciation": "grees",
+        "meaning": "Kulrang"
+      },
+      {
+        "word": "Marrón",
+        "pronunciation": "ma-RRON",
+        "meaning": "Jigarrang"
+      }
+    ],
+    "Tana qismlari": [
+      {
+        "word": "Cabeza",
+        "pronunciation": "ka-BE-sa",
+        "meaning": "Bosh"
+      },
+      {
+        "word": "Ojo",
+        "pronunciation": "O-kho",
+        "meaning": "Ko'z"
+      },
+      {
+        "word": "Mano",
+        "pronunciation": "MA-no",
+        "meaning": "Qo'l"
+      },
+      {
+        "word": "Pierna",
+        "pronunciation": "PYER-na",
+        "meaning": "Oyoq"
+      },
+      {
+        "word": "Oreja",
+        "pronunciation": "o-RE-kha",
+        "meaning": "Quloq"
+      },
+      {
+        "word": "Nariz",
+        "pronunciation": "na-REES",
+        "meaning": "Burun"
+      },
+      {
+        "word": "Boca",
+        "pronunciation": "BO-ka",
+        "meaning": "Og'iz"
+      },
+      {
+        "word": "Corazón",
+        "pronunciation": "ko-ra-SON",
+        "meaning": "Yurak"
+      },
+      {
+        "word": "Pelo",
+        "pronunciation": "PE-lo",
+        "meaning": "Soch"
+      },
+      {
+        "word": "Diente",
+        "pronunciation": "DYEN-te",
+        "meaning": "Tish"
+      }
+    ],
+    "Hayvonlar": [
+      {
+        "word": "Perro",
+        "pronunciation": "PE-rro",
+        "meaning": "It"
+      },
+      {
+        "word": "Gato",
+        "pronunciation": "GA-to",
+        "meaning": "Mushuk"
+      },
+      {
+        "word": "Pájaro",
+        "pronunciation": "PA-kha-ro",
+        "meaning": "Qush"
+      },
+      {
+        "word": "Caballo",
+        "pronunciation": "ka-BA-yo",
+        "meaning": "Ot"
+      },
+      {
+        "word": "Vaca",
+        "pronunciation": "VA-ka",
+        "meaning": "Sigir"
+      },
+      {
+        "word": "Oveja",
+        "pronunciation": "o-VE-kha",
+        "meaning": "Qo'y"
+      },
+      {
+        "word": "León",
+        "pronunciation": "le-ON",
+        "meaning": "Sher"
+      },
+      {
+        "word": "Oso",
+        "pronunciation": "O-so",
+        "meaning": "Ayiq"
+      },
+      {
+        "word": "Elefante",
+        "pronunciation": "e-le-FAN-te",
+        "meaning": "Fil"
+      },
+      {
+        "word": "Conejo",
+        "pronunciation": "ko-NE-kho",
+        "meaning": "Quyon"
+      }
+    ],
+    "Uy va buyumlar": [
+      {
+        "word": "Casa",
+        "pronunciation": "KA-sa",
+        "meaning": "Uy"
+      },
+      {
+        "word": "Puerta",
+        "pronunciation": "PWER-ta",
+        "meaning": "Eshik"
+      },
+      {
+        "word": "Ventana",
+        "pronunciation": "ven-TA-na",
+        "meaning": "Deraza"
+      },
+      {
+        "word": "Mesa",
+        "pronunciation": "ME-sa",
+        "meaning": "Stol"
+      },
+      {
+        "word": "Silla",
+        "pronunciation": "SEE-ya",
+        "meaning": "Stul"
+      },
+      {
+        "word": "Cama",
+        "pronunciation": "KA-ma",
+        "meaning": "Karavot"
+      },
+      {
+        "word": "Libro",
+        "pronunciation": "LEE-bro",
+        "meaning": "Kitob"
+      },
+      {
+        "word": "Bolígrafo",
+        "pronunciation": "bo-LEE-gra-fo",
+        "meaning": "Qalam"
+      },
+      {
+        "word": "Teléfono",
+        "pronunciation": "te-LE-fo-no",
+        "meaning": "Telefon"
+      },
+      {
+        "word": "Llave",
+        "pronunciation": "YA-ve",
+        "meaning": "Kalit"
+      }
+    ],
+    "Kiyim-kechak": [
+      {
+        "word": "Camisa",
+        "pronunciation": "ka-MEE-sa",
+        "meaning": "Ko'ylak"
+      },
+      {
+        "word": "Pantalones",
+        "pronunciation": "pan-ta-LO-nes",
+        "meaning": "Shim"
+      },
+      {
+        "word": "Zapatos",
+        "pronunciation": "sa-PA-tos",
+        "meaning": "Poyabzal"
+      },
+      {
+        "word": "Sombrero",
+        "pronunciation": "som-BRE-ro",
+        "meaning": "Shlyapa"
+      },
+      {
+        "word": "Vestido",
+        "pronunciation": "ves-TEE-do",
+        "meaning": "Libos"
+      },
+      {
+        "word": "Chaqueta",
+        "pronunciation": "cha-KE-ta",
+        "meaning": "Kurtka"
+      },
+      {
+        "word": "Calcetines",
+        "pronunciation": "kal-se-TEE-nes",
+        "meaning": "Paypoq"
+      },
+      {
+        "word": "Bolsa",
+        "pronunciation": "BOL-sa",
+        "meaning": "Sumka"
+      }
+    ],
+    "Kasblar": [
+      {
+        "word": "Profesor",
+        "pronunciation": "pro-fe-SOR",
+        "meaning": "O'qituvchi"
+      },
+      {
+        "word": "Médico",
+        "pronunciation": "ME-di-ko",
+        "meaning": "Shifokor"
+      },
+      {
+        "word": "Ingeniero",
+        "pronunciation": "in-khe-NYE-ro",
+        "meaning": "Muhandis"
+      },
+      {
+        "word": "Conductor",
+        "pronunciation": "kon-duk-TOR",
+        "meaning": "Haydovchi"
+      },
+      {
+        "word": "Cocinero",
+        "pronunciation": "ko-si-NE-ro",
+        "meaning": "Oshpaz"
+      },
+      {
+        "word": "Policía",
+        "pronunciation": "po-li-SEE-a",
+        "meaning": "Politsiya xodimi"
+      },
+      {
+        "word": "Estudiante",
+        "pronunciation": "es-tu-DYAN-te",
+        "meaning": "Talaba"
+      },
+      {
+        "word": "Trabajador",
+        "pronunciation": "tra-ba-kha-DOR",
+        "meaning": "Ishchi"
+      },
+      {
+        "word": "Agricultor",
+        "pronunciation": "a-gri-kul-TOR",
+        "meaning": "Dehqon"
+      },
+      {
+        "word": "Enfermera",
+        "pronunciation": "en-fer-ME-ra",
+        "meaning": "Hamshira"
+      }
+    ],
+    "Vaqt va ob-havo": [
+      {
+        "word": "Hoy",
+        "pronunciation": "oy",
+        "meaning": "Bugun"
+      },
+      {
+        "word": "Mañana",
+        "pronunciation": "ma-NYA-na",
+        "meaning": "Ertaga"
+      },
+      {
+        "word": "Ayer",
+        "pronunciation": "a-YER",
+        "meaning": "Kecha"
+      },
+      {
+        "word": "Sol",
+        "pronunciation": "sol",
+        "meaning": "Quyosh"
+      },
+      {
+        "word": "Lluvia",
+        "pronunciation": "YOO-vya",
+        "meaning": "Yomg'ir"
+      },
+      {
+        "word": "Nieve",
+        "pronunciation": "NYE-ve",
+        "meaning": "Qor"
+      },
+      {
+        "word": "Viento",
+        "pronunciation": "VYEN-to",
+        "meaning": "Shamol"
+      },
+      {
+        "word": "Caliente",
+        "pronunciation": "ka-LYEN-te",
+        "meaning": "Issiq"
+      },
+      {
+        "word": "Frío",
+        "pronunciation": "FREE-o",
+        "meaning": "Sovuq"
+      },
+      {
+        "word": "Nube",
+        "pronunciation": "NOO-be",
+        "meaning": "Bulut"
+      }
+    ],
+    "Joylar": [
+      {
+        "word": "Ciudad",
+        "pronunciation": "syu-DAD",
+        "meaning": "Shahar"
+      },
+      {
+        "word": "Pueblo",
+        "pronunciation": "PWE-blo",
+        "meaning": "Qishloq"
+      },
+      {
+        "word": "Escuela",
+        "pronunciation": "es-KWE-la",
+        "meaning": "Maktab"
+      },
+      {
+        "word": "Hospital",
+        "pronunciation": "os-pee-TAL",
+        "meaning": "Kasalxona"
+      },
+      {
+        "word": "Mercado",
+        "pronunciation": "mer-KA-do",
+        "meaning": "Bozor"
+      },
+      {
+        "word": "Aeropuerto",
+        "pronunciation": "a-e-ro-PWER-to",
+        "meaning": "Aeroport"
+      },
+      {
+        "word": "Calle",
+        "pronunciation": "KA-lye",
+        "meaning": "Ko'cha"
+      },
+      {
+        "word": "Parque",
+        "pronunciation": "PAR-ke",
+        "meaning": "Bog'"
+      },
+      {
+        "word": "Restaurante",
+        "pronunciation": "res-tow-RAN-te",
+        "meaning": "Restoran"
+      },
+      {
+        "word": "Banco",
+        "pronunciation": "BAN-ko",
+        "meaning": "Bank"
+      }
+    ],
+    "Sifatlar": [
+      {
+        "word": "Grande",
+        "pronunciation": "GRAN-de",
+        "meaning": "Katta"
+      },
+      {
+        "word": "Pequeño",
+        "pronunciation": "pe-KE-nyo",
+        "meaning": "Kichik"
+      },
+      {
+        "word": "Bueno",
+        "pronunciation": "BWE-no",
+        "meaning": "Yaxshi"
+      },
+      {
+        "word": "Malo",
+        "pronunciation": "MA-lo",
+        "meaning": "Yomon"
+      },
+      {
+        "word": "Nuevo",
+        "pronunciation": "NWE-vo",
+        "meaning": "Yangi"
+      },
+      {
+        "word": "Viejo",
+        "pronunciation": "VYE-kho",
+        "meaning": "Eski"
+      },
+      {
+        "word": "Rápido",
+        "pronunciation": "RA-pi-do",
+        "meaning": "Tez"
+      },
+      {
+        "word": "Lento",
+        "pronunciation": "LEN-to",
+        "meaning": "Sekin"
+      },
+      {
+        "word": "Hermoso",
+        "pronunciation": "er-MO-so",
+        "meaning": "Chiroyli"
+      },
+      {
+        "word": "Difícil",
+        "pronunciation": "di-FEE-seel",
+        "meaning": "Qiyin"
+      }
+    ],
+    "Fe'llar": [
+      {
+        "word": "Ir",
+        "pronunciation": "eer",
+        "meaning": "Bormoq"
+      },
+      {
+        "word": "Venir",
+        "pronunciation": "ve-NEER",
+        "meaning": "Kelmoq"
+      },
+      {
+        "word": "Comer",
+        "pronunciation": "ko-MER",
+        "meaning": "Yemoq"
+      },
+      {
+        "word": "Beber",
+        "pronunciation": "be-BER",
+        "meaning": "Ichmoq"
+      },
+      {
+        "word": "Dormir",
+        "pronunciation": "dor-MEER",
+        "meaning": "Uxlamoq"
+      },
+      {
+        "word": "Trabajar",
+        "pronunciation": "tra-ba-KHAR",
+        "meaning": "Ishlamoq"
+      },
+      {
+        "word": "Leer",
+        "pronunciation": "le-ER",
+        "meaning": "O'qimoq"
+      },
+      {
+        "word": "Escribir",
+        "pronunciation": "es-kree-BEER",
+        "meaning": "Yozmoq"
+      },
+      {
+        "word": "Hablar",
+        "pronunciation": "a-BLAR",
+        "meaning": "Gapirmoq"
+      },
+      {
+        "word": "Ver",
+        "pronunciation": "ver",
+        "meaning": "Ko'rmoq"
+      },
+      {
+        "word": "Querer",
+        "pronunciation": "ke-RER",
+        "meaning": "Xohlamoq"
+      },
+      {
+        "word": "Amar",
+        "pronunciation": "a-MAR",
+        "meaning": "Sevmoq"
+      },
+      {
+        "word": "Saber",
+        "pronunciation": "sa-BER",
+        "meaning": "Bilmoq"
+      },
+      {
+        "word": "Hacer",
+        "pronunciation": "a-SER",
+        "meaning": "Qilmoq"
+      },
+      {
+        "word": "Dar",
+        "pronunciation": "dar",
+        "meaning": "Bermoq"
+      }
+    ]
+  },
+  "turk": {
+    "Salomlashish va muloqot": [
+      {
+        "word": "Merhaba",
+        "pronunciation": "mer-ha-BA",
+        "meaning": "Salom"
+      },
+      {
+        "word": "Hoşça kal",
+        "pronunciation": "hosh-cha KAL",
+        "meaning": "Xayr"
+      },
+      {
+        "word": "Teşekkürler",
+        "pronunciation": "te-shek-kyur-LER",
+        "meaning": "Rahmat"
+      },
+      {
+        "word": "Lütfen",
+        "pronunciation": "lyut-FEN",
+        "meaning": "Iltimos"
+      },
+      {
+        "word": "Affedersiniz",
+        "pronunciation": "af-fe-der-si-NIZ",
+        "meaning": "Kechirasiz"
+      },
+      {
+        "word": "Evet",
+        "pronunciation": "e-VET",
+        "meaning": "Ha"
+      },
+      {
+        "word": "Hayır",
+        "pronunciation": "ha-YIR",
+        "meaning": "Yo'q"
+      },
+      {
+        "word": "Günaydın",
+        "pronunciation": "gyu-nai-DIN",
+        "meaning": "Xayrli tong"
+      },
+      {
+        "word": "İyi geceler",
+        "pronunciation": "i-yi ge-je-LER",
+        "meaning": "Xayrli tun"
+      },
+      {
+        "word": "Nasılsın?",
+        "pronunciation": "na-sil-SIN",
+        "meaning": "Qalaysiz?"
+      }
+    ],
+    "Oila": [
+      {
+        "word": "Anne",
+        "pronunciation": "an-NE",
+        "meaning": "Ona"
+      },
+      {
+        "word": "Baba",
+        "pronunciation": "ba-BA",
+        "meaning": "Ota"
+      },
+      {
+        "word": "Abla",
+        "pronunciation": "ab-LA",
+        "meaning": "Opa/Singil"
+      },
+      {
+        "word": "Kardeş",
+        "pronunciation": "kar-DESH",
+        "meaning": "Aka/Uka"
+      },
+      {
+        "word": "Çocuk",
+        "pronunciation": "cho-JUK",
+        "meaning": "Bola"
+      },
+      {
+        "word": "Büyükanne",
+        "pronunciation": "byu-yuk-an-NE",
+        "meaning": "Buvi"
+      },
+      {
+        "word": "Büyükbaba",
+        "pronunciation": "byu-yuk-ba-BA",
+        "meaning": "Buva"
+      },
+      {
+        "word": "Eş (kadın)",
+        "pronunciation": "esh",
+        "meaning": "Xotin"
+      },
+      {
+        "word": "Eş (erkek)",
+        "pronunciation": "esh",
+        "meaning": "Er"
+      },
+      {
+        "word": "Arkadaş",
+        "pronunciation": "ar-ka-DASH",
+        "meaning": "Do'st"
+      }
+    ],
+    "Raqamlar (1-20)": [
+      {
+        "word": "Bir",
+        "pronunciation": "bir",
+        "meaning": "Bir"
+      },
+      {
+        "word": "İki",
+        "pronunciation": "i-KI",
+        "meaning": "Ikki"
+      },
+      {
+        "word": "Üç",
+        "pronunciation": "uch",
+        "meaning": "Uch"
+      },
+      {
+        "word": "Dört",
+        "pronunciation": "durt",
+        "meaning": "To'rt"
+      },
+      {
+        "word": "Beş",
+        "pronunciation": "besh",
+        "meaning": "Besh"
+      },
+      {
+        "word": "Altı",
+        "pronunciation": "al-TI",
+        "meaning": "Olti"
+      },
+      {
+        "word": "Yedi",
+        "pronunciation": "ye-DI",
+        "meaning": "Yetti"
+      },
+      {
+        "word": "Sekiz",
+        "pronunciation": "se-KIZ",
+        "meaning": "Sakkiz"
+      },
+      {
+        "word": "Dokuz",
+        "pronunciation": "do-KUZ",
+        "meaning": "To'qqiz"
+      },
+      {
+        "word": "On",
+        "pronunciation": "on",
+        "meaning": "O'n"
+      },
+      {
+        "word": "On bir",
+        "pronunciation": "on BIR",
+        "meaning": "O'n bir"
+      },
+      {
+        "word": "On iki",
+        "pronunciation": "on i-KI",
+        "meaning": "O'n ikki"
+      },
+      {
+        "word": "On üç",
+        "pronunciation": "on UCH",
+        "meaning": "O'n uch"
+      },
+      {
+        "word": "On dört",
+        "pronunciation": "on DURT",
+        "meaning": "O'n to'rt"
+      },
+      {
+        "word": "On beş",
+        "pronunciation": "on BESH",
+        "meaning": "O'n besh"
+      },
+      {
+        "word": "On altı",
+        "pronunciation": "on al-TI",
+        "meaning": "O'n olti"
+      },
+      {
+        "word": "On yedi",
+        "pronunciation": "on ye-DI",
+        "meaning": "O'n yetti"
+      },
+      {
+        "word": "On sekiz",
+        "pronunciation": "on se-KIZ",
+        "meaning": "O'n sakkiz"
+      },
+      {
+        "word": "On dokuz",
+        "pronunciation": "on do-KUZ",
+        "meaning": "O'n to'qqiz"
+      },
+      {
+        "word": "Yirmi",
+        "pronunciation": "yir-MI",
+        "meaning": "Yigirma"
+      }
+    ],
+    "Hafta kunlari": [
+      {
+        "word": "Pazartesi",
+        "pronunciation": "pa-zar-te-SI",
+        "meaning": "Dushanba"
+      },
+      {
+        "word": "Salı",
+        "pronunciation": "sa-LI",
+        "meaning": "Seshanba"
+      },
+      {
+        "word": "Çarşamba",
+        "pronunciation": "char-sham-BA",
+        "meaning": "Chorshanba"
+      },
+      {
+        "word": "Perşembe",
+        "pronunciation": "per-shem-BE",
+        "meaning": "Payshanba"
+      },
+      {
+        "word": "Cuma",
+        "pronunciation": "ju-MA",
+        "meaning": "Juma"
+      },
+      {
+        "word": "Cumartesi",
+        "pronunciation": "ju-mar-te-SI",
+        "meaning": "Shanba"
+      },
+      {
+        "word": "Pazar",
+        "pronunciation": "pa-ZAR",
+        "meaning": "Yakshanba"
+      }
+    ],
+    "Oylar": [
+      {
+        "word": "Ocak",
+        "pronunciation": "o-JAK",
+        "meaning": "Yanvar"
+      },
+      {
+        "word": "Şubat",
+        "pronunciation": "shu-BAT",
+        "meaning": "Fevral"
+      },
+      {
+        "word": "Mart",
+        "pronunciation": "mart",
+        "meaning": "Mart"
+      },
+      {
+        "word": "Nisan",
+        "pronunciation": "ni-SAN",
+        "meaning": "Aprel"
+      },
+      {
+        "word": "Mayıs",
+        "pronunciation": "ma-YIS",
+        "meaning": "May"
+      },
+      {
+        "word": "Haziran",
+        "pronunciation": "ha-zi-RAN",
+        "meaning": "Iyun"
+      },
+      {
+        "word": "Temmuz",
+        "pronunciation": "tem-MUZ",
+        "meaning": "Iyul"
+      },
+      {
+        "word": "Ağustos",
+        "pronunciation": "aa-us-TOS",
+        "meaning": "Avgust"
+      },
+      {
+        "word": "Eylül",
+        "pronunciation": "ey-LYUL",
+        "meaning": "Sentabr"
+      },
+      {
+        "word": "Ekim",
+        "pronunciation": "e-KIM",
+        "meaning": "Oktabr"
+      },
+      {
+        "word": "Kasım",
+        "pronunciation": "ka-SIM",
+        "meaning": "Noyabr"
+      },
+      {
+        "word": "Aralık",
+        "pronunciation": "a-ra-LIK",
+        "meaning": "Dekabr"
+      }
+    ],
+    "Ovqat-ichimlik": [
+      {
+        "word": "Ekmek",
+        "pronunciation": "ek-MEK",
+        "meaning": "Non"
+      },
+      {
+        "word": "Su",
+        "pronunciation": "su",
+        "meaning": "Suv"
+      },
+      {
+        "word": "Kahve",
+        "pronunciation": "kah-VE",
+        "meaning": "Qahva"
+      },
+      {
+        "word": "Çay",
+        "pronunciation": "chai",
+        "meaning": "Choy"
+      },
+      {
+        "word": "Elma",
+        "pronunciation": "el-MA",
+        "meaning": "Olma"
+      },
+      {
+        "word": "Pirinç",
+        "pronunciation": "pi-RINCH",
+        "meaning": "Guruch"
+      },
+      {
+        "word": "Et",
+        "pronunciation": "et",
+        "meaning": "Go'sht"
+      },
+      {
+        "word": "Süt",
+        "pronunciation": "syut",
+        "meaning": "Sut"
+      },
+      {
+        "word": "Yumurta",
+        "pronunciation": "yu-mur-TA",
+        "meaning": "Tuxum"
+      },
+      {
+        "word": "Şeker",
+        "pronunciation": "she-KER",
+        "meaning": "Shakar"
+      },
+      {
+        "word": "Tuz",
+        "pronunciation": "tuz",
+        "meaning": "Tuz"
+      },
+      {
+        "word": "Çorba",
+        "pronunciation": "chor-BA",
+        "meaning": "Sho'rva"
+      },
+      {
+        "word": "Balık",
+        "pronunciation": "ba-LIK",
+        "meaning": "Baliq"
+      },
+      {
+        "word": "Sebze",
+        "pronunciation": "seb-ZE",
+        "meaning": "Sabzavot"
+      },
+      {
+        "word": "Meyve",
+        "pronunciation": "mey-VE",
+        "meaning": "Meva"
+      }
+    ],
+    "Ranglar": [
+      {
+        "word": "Kırmızı",
+        "pronunciation": "kir-mi-ZI",
+        "meaning": "Qizil"
+      },
+      {
+        "word": "Mavi",
+        "pronunciation": "ma-VI",
+        "meaning": "Ko'k"
+      },
+      {
+        "word": "Yeşil",
+        "pronunciation": "ye-SHIL",
+        "meaning": "Yashil"
+      },
+      {
+        "word": "Sarı",
+        "pronunciation": "sa-RI",
+        "meaning": "Sariq"
+      },
+      {
+        "word": "Siyah",
+        "pronunciation": "si-YAH",
+        "meaning": "Qora"
+      },
+      {
+        "word": "Beyaz",
+        "pronunciation": "be-YAZ",
+        "meaning": "Oq"
+      },
+      {
+        "word": "Turuncu",
+        "pronunciation": "tu-run-JU",
+        "meaning": "To'q sariq"
+      },
+      {
+        "word": "Pembe",
+        "pronunciation": "pem-BE",
+        "meaning": "Pushti"
+      },
+      {
+        "word": "Gri",
+        "pronunciation": "gri",
+        "meaning": "Kulrang"
+      },
+      {
+        "word": "Kahverengi",
+        "pronunciation": "kah-ve-ren-GI",
+        "meaning": "Jigarrang"
+      }
+    ],
+    "Tana qismlari": [
+      {
+        "word": "Baş",
+        "pronunciation": "bash",
+        "meaning": "Bosh"
+      },
+      {
+        "word": "Göz",
+        "pronunciation": "guz",
+        "meaning": "Ko'z"
+      },
+      {
+        "word": "El",
+        "pronunciation": "el",
+        "meaning": "Qo'l"
+      },
+      {
+        "word": "Bacak",
+        "pronunciation": "ba-JAK",
+        "meaning": "Oyoq"
+      },
+      {
+        "word": "Kulak",
+        "pronunciation": "ku-LAK",
+        "meaning": "Quloq"
+      },
+      {
+        "word": "Burun",
+        "pronunciation": "bu-RUN",
+        "meaning": "Burun"
+      },
+      {
+        "word": "Ağız",
+        "pronunciation": "aa-IZ",
+        "meaning": "Og'iz"
+      },
+      {
+        "word": "Kalp",
+        "pronunciation": "kalp",
+        "meaning": "Yurak"
+      },
+      {
+        "word": "Saç",
+        "pronunciation": "sach",
+        "meaning": "Soch"
+      },
+      {
+        "word": "Diş",
+        "pronunciation": "dish",
+        "meaning": "Tish"
+      }
+    ],
+    "Hayvonlar": [
+      {
+        "word": "Köpek",
+        "pronunciation": "ku-PEK",
+        "meaning": "It"
+      },
+      {
+        "word": "Kedi",
+        "pronunciation": "ke-DI",
+        "meaning": "Mushuk"
+      },
+      {
+        "word": "Kuş",
+        "pronunciation": "kush",
+        "meaning": "Qush"
+      },
+      {
+        "word": "At",
+        "pronunciation": "at",
+        "meaning": "Ot"
+      },
+      {
+        "word": "İnek",
+        "pronunciation": "i-NEK",
+        "meaning": "Sigir"
+      },
+      {
+        "word": "Koyun",
+        "pronunciation": "ko-YUN",
+        "meaning": "Qo'y"
+      },
+      {
+        "word": "Aslan",
+        "pronunciation": "as-LAN",
+        "meaning": "Sher"
+      },
+      {
+        "word": "Ayı",
+        "pronunciation": "a-YI",
+        "meaning": "Ayiq"
+      },
+      {
+        "word": "Fil",
+        "pronunciation": "fil",
+        "meaning": "Fil"
+      },
+      {
+        "word": "Tavşan",
+        "pronunciation": "tav-SHAN",
+        "meaning": "Quyon"
+      }
+    ],
+    "Uy va buyumlar": [
+      {
+        "word": "Ev",
+        "pronunciation": "ev",
+        "meaning": "Uy"
+      },
+      {
+        "word": "Kapı",
+        "pronunciation": "ka-PI",
+        "meaning": "Eshik"
+      },
+      {
+        "word": "Pencere",
+        "pronunciation": "pen-je-RE",
+        "meaning": "Deraza"
+      },
+      {
+        "word": "Masa",
+        "pronunciation": "ma-SA",
+        "meaning": "Stol"
+      },
+      {
+        "word": "Sandalye",
+        "pronunciation": "san-dal-YE",
+        "meaning": "Stul"
+      },
+      {
+        "word": "Yatak",
+        "pronunciation": "ya-TAK",
+        "meaning": "Karavot"
+      },
+      {
+        "word": "Kitap",
+        "pronunciation": "ki-TAP",
+        "meaning": "Kitob"
+      },
+      {
+        "word": "Kalem",
+        "pronunciation": "ka-LEM",
+        "meaning": "Qalam"
+      },
+      {
+        "word": "Telefon",
+        "pronunciation": "te-le-FON",
+        "meaning": "Telefon"
+      },
+      {
+        "word": "Anahtar",
+        "pronunciation": "a-nah-TAR",
+        "meaning": "Kalit"
+      }
+    ],
+    "Kiyim-kechak": [
+      {
+        "word": "Gömlek",
+        "pronunciation": "gum-LEK",
+        "meaning": "Ko'ylak"
+      },
+      {
+        "word": "Pantolon",
+        "pronunciation": "pan-to-LON",
+        "meaning": "Shim"
+      },
+      {
+        "word": "Ayakkabı",
+        "pronunciation": "a-yak-ka-BI",
+        "meaning": "Poyabzal"
+      },
+      {
+        "word": "Şapka",
+        "pronunciation": "shap-KA",
+        "meaning": "Shlyapa"
+      },
+      {
+        "word": "Elbise",
+        "pronunciation": "el-bi-SE",
+        "meaning": "Libos"
+      },
+      {
+        "word": "Ceket",
+        "pronunciation": "je-KET",
+        "meaning": "Kurtka"
+      },
+      {
+        "word": "Çorap",
+        "pronunciation": "cho-RAP",
+        "meaning": "Paypoq"
+      },
+      {
+        "word": "Çanta",
+        "pronunciation": "chan-TA",
+        "meaning": "Sumka"
+      }
+    ],
+    "Kasblar": [
+      {
+        "word": "Öğretmen",
+        "pronunciation": "uu-ret-MEN",
+        "meaning": "O'qituvchi"
+      },
+      {
+        "word": "Doktor",
+        "pronunciation": "dok-TOR",
+        "meaning": "Shifokor"
+      },
+      {
+        "word": "Mühendis",
+        "pronunciation": "myu-hen-DIS",
+        "meaning": "Muhandis"
+      },
+      {
+        "word": "Şoför",
+        "pronunciation": "sho-FOR",
+        "meaning": "Haydovchi"
+      },
+      {
+        "word": "Aşçı",
+        "pronunciation": "ash-CHI",
+        "meaning": "Oshpaz"
+      },
+      {
+        "word": "Polis",
+        "pronunciation": "po-LIS",
+        "meaning": "Politsiya xodimi"
+      },
+      {
+        "word": "Öğrenci",
+        "pronunciation": "uu-ren-JI",
+        "meaning": "Talaba"
+      },
+      {
+        "word": "İşçi",
+        "pronunciation": "ish-CHI",
+        "meaning": "Ishchi"
+      },
+      {
+        "word": "Çiftçi",
+        "pronunciation": "chift-CHI",
+        "meaning": "Dehqon"
+      },
+      {
+        "word": "Hemşire",
+        "pronunciation": "hem-SHI-re",
+        "meaning": "Hamshira"
+      }
+    ],
+    "Vaqt va ob-havo": [
+      {
+        "word": "Bugün",
+        "pronunciation": "bu-GYUN",
+        "meaning": "Bugun"
+      },
+      {
+        "word": "Yarın",
+        "pronunciation": "ya-RIN",
+        "meaning": "Ertaga"
+      },
+      {
+        "word": "Dün",
+        "pronunciation": "dyun",
+        "meaning": "Kecha"
+      },
+      {
+        "word": "Güneş",
+        "pronunciation": "gyu-NESH",
+        "meaning": "Quyosh"
+      },
+      {
+        "word": "Yağmur",
+        "pronunciation": "yaa-MUR",
+        "meaning": "Yomg'ir"
+      },
+      {
+        "word": "Kar",
+        "pronunciation": "kar",
+        "meaning": "Qor"
+      },
+      {
+        "word": "Rüzgar",
+        "pronunciation": "ryuz-GAR",
+        "meaning": "Shamol"
+      },
+      {
+        "word": "Sıcak",
+        "pronunciation": "si-JAK",
+        "meaning": "Issiq"
+      },
+      {
+        "word": "Soğuk",
+        "pronunciation": "so-UK",
+        "meaning": "Sovuq"
+      },
+      {
+        "word": "Bulut",
+        "pronunciation": "bu-LUT",
+        "meaning": "Bulut"
+      }
+    ],
+    "Joylar": [
+      {
+        "word": "Şehir",
+        "pronunciation": "she-HIR",
+        "meaning": "Shahar"
+      },
+      {
+        "word": "Köy",
+        "pronunciation": "kuy",
+        "meaning": "Qishloq"
+      },
+      {
+        "word": "Okul",
+        "pronunciation": "o-KUL",
+        "meaning": "Maktab"
+      },
+      {
+        "word": "Hastane",
+        "pronunciation": "has-ta-NE",
+        "meaning": "Kasalxona"
+      },
+      {
+        "word": "Pazar",
+        "pronunciation": "pa-ZAR",
+        "meaning": "Bozor"
+      },
+      {
+        "word": "Havalimanı",
+        "pronunciation": "ha-va-li-ma-NI",
+        "meaning": "Aeroport"
+      },
+      {
+        "word": "Sokak",
+        "pronunciation": "so-KAK",
+        "meaning": "Ko'cha"
+      },
+      {
+        "word": "Park",
+        "pronunciation": "park",
+        "meaning": "Bog'"
+      },
+      {
+        "word": "Restoran",
+        "pronunciation": "res-to-RAN",
+        "meaning": "Restoran"
+      },
+      {
+        "word": "Banka",
+        "pronunciation": "ban-KA",
+        "meaning": "Bank"
+      }
+    ],
+    "Sifatlar": [
+      {
+        "word": "Büyük",
+        "pronunciation": "byu-YUK",
+        "meaning": "Katta"
+      },
+      {
+        "word": "Küçük",
+        "pronunciation": "kyu-CHUK",
+        "meaning": "Kichik"
+      },
+      {
+        "word": "İyi",
+        "pronunciation": "i-YI",
+        "meaning": "Yaxshi"
+      },
+      {
+        "word": "Kötü",
+        "pronunciation": "ku-TYU",
+        "meaning": "Yomon"
+      },
+      {
+        "word": "Yeni",
+        "pronunciation": "ye-NI",
+        "meaning": "Yangi"
+      },
+      {
+        "word": "Eski",
+        "pronunciation": "es-KI",
+        "meaning": "Eski"
+      },
+      {
+        "word": "Hızlı",
+        "pronunciation": "hiz-LI",
+        "meaning": "Tez"
+      },
+      {
+        "word": "Yavaş",
+        "pronunciation": "ya-VASH",
+        "meaning": "Sekin"
+      },
+      {
+        "word": "Güzel",
+        "pronunciation": "gyu-ZEL",
+        "meaning": "Chiroyli"
+      },
+      {
+        "word": "Zor",
+        "pronunciation": "zor",
+        "meaning": "Qiyin"
+      }
+    ],
+    "Fe'llar": [
+      {
+        "word": "Gitmek",
+        "pronunciation": "git-MEK",
+        "meaning": "Bormoq"
+      },
+      {
+        "word": "Gelmek",
+        "pronunciation": "gel-MEK",
+        "meaning": "Kelmoq"
+      },
+      {
+        "word": "Yemek",
+        "pronunciation": "ye-MEK",
+        "meaning": "Yemoq"
+      },
+      {
+        "word": "İçmek",
+        "pronunciation": "ich-MEK",
+        "meaning": "Ichmoq"
+      },
+      {
+        "word": "Uyumak",
+        "pronunciation": "u-yu-MAK",
+        "meaning": "Uxlamoq"
+      },
+      {
+        "word": "Çalışmak",
+        "pronunciation": "cha-lish-MAK",
+        "meaning": "Ishlamoq"
+      },
+      {
+        "word": "Okumak",
+        "pronunciation": "o-ku-MAK",
+        "meaning": "O'qimoq"
+      },
+      {
+        "word": "Yazmak",
+        "pronunciation": "yaz-MAK",
+        "meaning": "Yozmoq"
+      },
+      {
+        "word": "Konuşmak",
+        "pronunciation": "ko-nush-MAK",
+        "meaning": "Gapirmoq"
+      },
+      {
+        "word": "Görmek",
+        "pronunciation": "gur-MEK",
+        "meaning": "Ko'rmoq"
+      },
+      {
+        "word": "İstemek",
+        "pronunciation": "is-te-MEK",
+        "meaning": "Xohlamoq"
+      },
+      {
+        "word": "Sevmek",
+        "pronunciation": "sev-MEK",
+        "meaning": "Sevmoq"
+      },
+      {
+        "word": "Bilmek",
+        "pronunciation": "bil-MEK",
+        "meaning": "Bilmoq"
+      },
+      {
+        "word": "Yapmak",
+        "pronunciation": "yap-MAK",
+        "meaning": "Qilmoq"
+      },
+      {
+        "word": "Vermek",
+        "pronunciation": "ver-MEK",
+        "meaning": "Bermoq"
+      }
+    ]
+  },
+  "nemis": {
+    "Salomlashish va muloqot": [
+      {
+        "word": "Hallo",
+        "pronunciation": "HA-lo",
+        "meaning": "Salom"
+      },
+      {
+        "word": "Auf Wiedersehen",
+        "pronunciation": "owf VEE-der-zeh-en",
+        "meaning": "Xayr"
+      },
+      {
+        "word": "Danke",
+        "pronunciation": "DAN-ke",
+        "meaning": "Rahmat"
+      },
+      {
+        "word": "Bitte",
+        "pronunciation": "BIT-te",
+        "meaning": "Iltimos"
+      },
+      {
+        "word": "Entschuldigung",
+        "pronunciation": "ent-SHOOL-di-gung",
+        "meaning": "Kechirasiz"
+      },
+      {
+        "word": "Ja",
+        "pronunciation": "ya",
+        "meaning": "Ha"
+      },
+      {
+        "word": "Nein",
+        "pronunciation": "nain",
+        "meaning": "Yo'q"
+      },
+      {
+        "word": "Guten Morgen",
+        "pronunciation": "GOO-ten MOR-gen",
+        "meaning": "Xayrli tong"
+      },
+      {
+        "word": "Gute Nacht",
+        "pronunciation": "GOO-te NAHT",
+        "meaning": "Xayrli tun"
+      },
+      {
+        "word": "Wie geht es dir?",
+        "pronunciation": "vee gate es DEER",
+        "meaning": "Qalaysiz?"
+      }
+    ],
+    "Oila": [
+      {
+        "word": "Mutter",
+        "pronunciation": "MUT-tuh",
+        "meaning": "Ona"
+      },
+      {
+        "word": "Vater",
+        "pronunciation": "FAA-tuh",
+        "meaning": "Ota"
+      },
+      {
+        "word": "Schwester",
+        "pronunciation": "SHVES-tuh",
+        "meaning": "Opa/Singil"
+      },
+      {
+        "word": "Bruder",
+        "pronunciation": "BROO-duh",
+        "meaning": "Aka/Uka"
+      },
+      {
+        "word": "Kind",
+        "pronunciation": "kint",
+        "meaning": "Bola"
+      },
+      {
+        "word": "Großmutter",
+        "pronunciation": "GROHS-mut-tuh",
+        "meaning": "Buvi"
+      },
+      {
+        "word": "Großvater",
+        "pronunciation": "GROHS-faa-tuh",
+        "meaning": "Buva"
+      },
+      {
+        "word": "Ehefrau",
+        "pronunciation": "EH-eh-frow",
+        "meaning": "Xotin"
+      },
+      {
+        "word": "Ehemann",
+        "pronunciation": "EH-eh-man",
+        "meaning": "Er"
+      },
+      {
+        "word": "Freund",
+        "pronunciation": "froynt",
+        "meaning": "Do'st"
+      }
+    ],
+    "Raqamlar (1-20)": [
+      {
+        "word": "Eins",
+        "pronunciation": "ains",
+        "meaning": "Bir"
+      },
+      {
+        "word": "Zwei",
+        "pronunciation": "tsvai",
+        "meaning": "Ikki"
+      },
+      {
+        "word": "Drei",
+        "pronunciation": "drai",
+        "meaning": "Uch"
+      },
+      {
+        "word": "Vier",
+        "pronunciation": "feer",
+        "meaning": "To'rt"
+      },
+      {
+        "word": "Fünf",
+        "pronunciation": "fuunf",
+        "meaning": "Besh"
+      },
+      {
+        "word": "Sechs",
+        "pronunciation": "zeks",
+        "meaning": "Olti"
+      },
+      {
+        "word": "Sieben",
+        "pronunciation": "ZEE-ben",
+        "meaning": "Yetti"
+      },
+      {
+        "word": "Acht",
+        "pronunciation": "ahkt",
+        "meaning": "Sakkiz"
+      },
+      {
+        "word": "Neun",
+        "pronunciation": "noyn",
+        "meaning": "To'qqiz"
+      },
+      {
+        "word": "Zehn",
+        "pronunciation": "tseyn",
+        "meaning": "O'n"
+      },
+      {
+        "word": "Elf",
+        "pronunciation": "elf",
+        "meaning": "O'n bir"
+      },
+      {
+        "word": "Zwölf",
+        "pronunciation": "tsvuhlf",
+        "meaning": "O'n ikki"
+      },
+      {
+        "word": "Dreizehn",
+        "pronunciation": "DRAI-tseyn",
+        "meaning": "O'n uch"
+      },
+      {
+        "word": "Vierzehn",
+        "pronunciation": "FEER-tseyn",
+        "meaning": "O'n to'rt"
+      },
+      {
+        "word": "Fünfzehn",
+        "pronunciation": "FUUNF-tseyn",
+        "meaning": "O'n besh"
+      },
+      {
+        "word": "Sechzehn",
+        "pronunciation": "ZEHKH-tseyn",
+        "meaning": "O'n olti"
+      },
+      {
+        "word": "Siebzehn",
+        "pronunciation": "ZEEP-tseyn",
+        "meaning": "O'n yetti"
+      },
+      {
+        "word": "Achtzehn",
+        "pronunciation": "AHKHT-tseyn",
+        "meaning": "O'n sakkiz"
+      },
+      {
+        "word": "Neunzehn",
+        "pronunciation": "NOYN-tseyn",
+        "meaning": "O'n to'qqiz"
+      },
+      {
+        "word": "Zwanzig",
+        "pronunciation": "TSVAN-tsikh",
+        "meaning": "Yigirma"
+      }
+    ],
+    "Hafta kunlari": [
+      {
+        "word": "Montag",
+        "pronunciation": "MOHN-tahk",
+        "meaning": "Dushanba"
+      },
+      {
+        "word": "Dienstag",
+        "pronunciation": "DEENS-tahk",
+        "meaning": "Seshanba"
+      },
+      {
+        "word": "Mittwoch",
+        "pronunciation": "MIT-vokh",
+        "meaning": "Chorshanba"
+      },
+      {
+        "word": "Donnerstag",
+        "pronunciation": "DON-ers-tahk",
+        "meaning": "Payshanba"
+      },
+      {
+        "word": "Freitag",
+        "pronunciation": "FRAI-tahk",
+        "meaning": "Juma"
+      },
+      {
+        "word": "Samstag",
+        "pronunciation": "ZAMS-tahk",
+        "meaning": "Shanba"
+      },
+      {
+        "word": "Sonntag",
+        "pronunciation": "ZON-tahk",
+        "meaning": "Yakshanba"
+      }
+    ],
+    "Oylar": [
+      {
+        "word": "Januar",
+        "pronunciation": "YAN-oo-ar",
+        "meaning": "Yanvar"
+      },
+      {
+        "word": "Februar",
+        "pronunciation": "FEB-roo-ar",
+        "meaning": "Fevral"
+      },
+      {
+        "word": "März",
+        "pronunciation": "merts",
+        "meaning": "Mart"
+      },
+      {
+        "word": "April",
+        "pronunciation": "a-PRIL",
+        "meaning": "Aprel"
+      },
+      {
+        "word": "Mai",
+        "pronunciation": "mai",
+        "meaning": "May"
+      },
+      {
+        "word": "Juni",
+        "pronunciation": "YOO-ni",
+        "meaning": "Iyun"
+      },
+      {
+        "word": "Juli",
+        "pronunciation": "YOO-li",
+        "meaning": "Iyul"
+      },
+      {
+        "word": "August",
+        "pronunciation": "ow-GUST",
+        "meaning": "Avgust"
+      },
+      {
+        "word": "September",
+        "pronunciation": "zep-TEM-ber",
+        "meaning": "Sentabr"
+      },
+      {
+        "word": "Oktober",
+        "pronunciation": "ok-TOH-ber",
+        "meaning": "Oktabr"
+      },
+      {
+        "word": "November",
+        "pronunciation": "no-VEM-ber",
+        "meaning": "Noyabr"
+      },
+      {
+        "word": "Dezember",
+        "pronunciation": "de-TSEM-ber",
+        "meaning": "Dekabr"
+      }
+    ],
+    "Ovqat-ichimlik": [
+      {
+        "word": "Brot",
+        "pronunciation": "broht",
+        "meaning": "Non"
+      },
+      {
+        "word": "Wasser",
+        "pronunciation": "VAS-suh",
+        "meaning": "Suv"
+      },
+      {
+        "word": "Kaffee",
+        "pronunciation": "ka-FEH",
+        "meaning": "Qahva"
+      },
+      {
+        "word": "Tee",
+        "pronunciation": "tey",
+        "meaning": "Choy"
+      },
+      {
+        "word": "Apfel",
+        "pronunciation": "AP-fel",
+        "meaning": "Olma"
+      },
+      {
+        "word": "Reis",
+        "pronunciation": "rais",
+        "meaning": "Guruch"
+      },
+      {
+        "word": "Fleisch",
+        "pronunciation": "flaish",
+        "meaning": "Go'sht"
+      },
+      {
+        "word": "Milch",
+        "pronunciation": "milkh",
+        "meaning": "Sut"
+      },
+      {
+        "word": "Ei",
+        "pronunciation": "ai",
+        "meaning": "Tuxum"
+      },
+      {
+        "word": "Zucker",
+        "pronunciation": "TSU-kuh",
+        "meaning": "Shakar"
+      },
+      {
+        "word": "Salz",
+        "pronunciation": "zalts",
+        "meaning": "Tuz"
+      },
+      {
+        "word": "Suppe",
+        "pronunciation": "ZUP-pe",
+        "meaning": "Sho'rva"
+      },
+      {
+        "word": "Fisch",
+        "pronunciation": "fish",
+        "meaning": "Baliq"
+      },
+      {
+        "word": "Gemüse",
+        "pronunciation": "ge-MUU-ze",
+        "meaning": "Sabzavot"
+      },
+      {
+        "word": "Obst",
+        "pronunciation": "ohpst",
+        "meaning": "Meva"
+      }
+    ],
+    "Ranglar": [
+      {
+        "word": "Rot",
+        "pronunciation": "roht",
+        "meaning": "Qizil"
+      },
+      {
+        "word": "Blau",
+        "pronunciation": "blau",
+        "meaning": "Ko'k"
+      },
+      {
+        "word": "Grün",
+        "pronunciation": "gruun",
+        "meaning": "Yashil"
+      },
+      {
+        "word": "Gelb",
+        "pronunciation": "gelp",
+        "meaning": "Sariq"
+      },
+      {
+        "word": "Schwarz",
+        "pronunciation": "shvarts",
+        "meaning": "Qora"
+      },
+      {
+        "word": "Weiß",
+        "pronunciation": "vais",
+        "meaning": "Oq"
+      },
+      {
+        "word": "Orange",
+        "pronunciation": "o-RAHN-zhe",
+        "meaning": "To'q sariq"
+      },
+      {
+        "word": "Rosa",
+        "pronunciation": "RO-za",
+        "meaning": "Pushti"
+      },
+      {
+        "word": "Grau",
+        "pronunciation": "grau",
+        "meaning": "Kulrang"
+      },
+      {
+        "word": "Braun",
+        "pronunciation": "braun",
+        "meaning": "Jigarrang"
+      }
+    ],
+    "Tana qismlari": [
+      {
+        "word": "Kopf",
+        "pronunciation": "kopf",
+        "meaning": "Bosh"
+      },
+      {
+        "word": "Auge",
+        "pronunciation": "OW-ge",
+        "meaning": "Ko'z"
+      },
+      {
+        "word": "Hand",
+        "pronunciation": "hant",
+        "meaning": "Qo'l"
+      },
+      {
+        "word": "Bein",
+        "pronunciation": "bain",
+        "meaning": "Oyoq"
+      },
+      {
+        "word": "Ohr",
+        "pronunciation": "or",
+        "meaning": "Quloq"
+      },
+      {
+        "word": "Nase",
+        "pronunciation": "NAH-ze",
+        "meaning": "Burun"
+      },
+      {
+        "word": "Mund",
+        "pronunciation": "munt",
+        "meaning": "Og'iz"
+      },
+      {
+        "word": "Herz",
+        "pronunciation": "herts",
+        "meaning": "Yurak"
+      },
+      {
+        "word": "Haar",
+        "pronunciation": "har",
+        "meaning": "Soch"
+      },
+      {
+        "word": "Zahn",
+        "pronunciation": "tsahn",
+        "meaning": "Tish"
+      }
+    ],
+    "Hayvonlar": [
+      {
+        "word": "Hund",
+        "pronunciation": "hunt",
+        "meaning": "It"
+      },
+      {
+        "word": "Katze",
+        "pronunciation": "KAT-se",
+        "meaning": "Mushuk"
+      },
+      {
+        "word": "Vogel",
+        "pronunciation": "FOH-gel",
+        "meaning": "Qush"
+      },
+      {
+        "word": "Pferd",
+        "pronunciation": "pfehrt",
+        "meaning": "Ot"
+      },
+      {
+        "word": "Kuh",
+        "pronunciation": "koo",
+        "meaning": "Sigir"
+      },
+      {
+        "word": "Schaf",
+        "pronunciation": "shahf",
+        "meaning": "Qo'y"
+      },
+      {
+        "word": "Löwe",
+        "pronunciation": "LUU-ve",
+        "meaning": "Sher"
+      },
+      {
+        "word": "Bär",
+        "pronunciation": "behr",
+        "meaning": "Ayiq"
+      },
+      {
+        "word": "Elefant",
+        "pronunciation": "e-le-FANT",
+        "meaning": "Fil"
+      },
+      {
+        "word": "Hase",
+        "pronunciation": "HAH-ze",
+        "meaning": "Quyon"
+      }
+    ],
+    "Uy va buyumlar": [
+      {
+        "word": "Haus",
+        "pronunciation": "haus",
+        "meaning": "Uy"
+      },
+      {
+        "word": "Tür",
+        "pronunciation": "tuur",
+        "meaning": "Eshik"
+      },
+      {
+        "word": "Fenster",
+        "pronunciation": "FENS-tuh",
+        "meaning": "Deraza"
+      },
+      {
+        "word": "Tisch",
+        "pronunciation": "tish",
+        "meaning": "Stol"
+      },
+      {
+        "word": "Stuhl",
+        "pronunciation": "shtool",
+        "meaning": "Stul"
+      },
+      {
+        "word": "Bett",
+        "pronunciation": "bet",
+        "meaning": "Karavot"
+      },
+      {
+        "word": "Buch",
+        "pronunciation": "bookh",
+        "meaning": "Kitob"
+      },
+      {
+        "word": "Stift",
+        "pronunciation": "shtift",
+        "meaning": "Qalam"
+      },
+      {
+        "word": "Telefon",
+        "pronunciation": "te-le-FOHN",
+        "meaning": "Telefon"
+      },
+      {
+        "word": "Schlüssel",
+        "pronunciation": "SHLUUS-sel",
+        "meaning": "Kalit"
+      }
+    ],
+    "Kiyim-kechak": [
+      {
+        "word": "Hemd",
+        "pronunciation": "hemt",
+        "meaning": "Ko'ylak"
+      },
+      {
+        "word": "Hose",
+        "pronunciation": "HOH-ze",
+        "meaning": "Shim"
+      },
+      {
+        "word": "Schuhe",
+        "pronunciation": "SHOO-e",
+        "meaning": "Poyabzal"
+      },
+      {
+        "word": "Hut",
+        "pronunciation": "hoot",
+        "meaning": "Shlyapa"
+      },
+      {
+        "word": "Kleid",
+        "pronunciation": "klait",
+        "meaning": "Libos"
+      },
+      {
+        "word": "Jacke",
+        "pronunciation": "YAK-ke",
+        "meaning": "Kurtka"
+      },
+      {
+        "word": "Socken",
+        "pronunciation": "ZOK-ken",
+        "meaning": "Paypoq"
+      },
+      {
+        "word": "Tasche",
+        "pronunciation": "TASH-e",
+        "meaning": "Sumka"
+      }
+    ],
+    "Kasblar": [
+      {
+        "word": "Lehrer",
+        "pronunciation": "LEH-ruh",
+        "meaning": "O'qituvchi"
+      },
+      {
+        "word": "Arzt",
+        "pronunciation": "artst",
+        "meaning": "Shifokor"
+      },
+      {
+        "word": "Ingenieur",
+        "pronunciation": "in-zhe-NYUR",
+        "meaning": "Muhandis"
+      },
+      {
+        "word": "Fahrer",
+        "pronunciation": "FAA-ruh",
+        "meaning": "Haydovchi"
+      },
+      {
+        "word": "Koch",
+        "pronunciation": "kokh",
+        "meaning": "Oshpaz"
+      },
+      {
+        "word": "Polizist",
+        "pronunciation": "po-li-TSIST",
+        "meaning": "Politsiya xodimi"
+      },
+      {
+        "word": "Student",
+        "pronunciation": "shtu-DENT",
+        "meaning": "Talaba"
+      },
+      {
+        "word": "Arbeiter",
+        "pronunciation": "AR-bai-tuh",
+        "meaning": "Ishchi"
+      },
+      {
+        "word": "Bauer",
+        "pronunciation": "BAU-uh",
+        "meaning": "Dehqon"
+      },
+      {
+        "word": "Krankenschwester",
+        "pronunciation": "KRAN-ken-shves-tuh",
+        "meaning": "Hamshira"
+      }
+    ],
+    "Vaqt va ob-havo": [
+      {
+        "word": "Heute",
+        "pronunciation": "HOY-te",
+        "meaning": "Bugun"
+      },
+      {
+        "word": "Morgen",
+        "pronunciation": "MOR-gen",
+        "meaning": "Ertaga"
+      },
+      {
+        "word": "Gestern",
+        "pronunciation": "GES-tuhn",
+        "meaning": "Kecha"
+      },
+      {
+        "word": "Sonne",
+        "pronunciation": "ZON-ne",
+        "meaning": "Quyosh"
+      },
+      {
+        "word": "Regen",
+        "pronunciation": "RAY-gen",
+        "meaning": "Yomg'ir"
+      },
+      {
+        "word": "Schnee",
+        "pronunciation": "shney",
+        "meaning": "Qor"
+      },
+      {
+        "word": "Wind",
+        "pronunciation": "vint",
+        "meaning": "Shamol"
+      },
+      {
+        "word": "Heiß",
+        "pronunciation": "hais",
+        "meaning": "Issiq"
+      },
+      {
+        "word": "Kalt",
+        "pronunciation": "kalt",
+        "meaning": "Sovuq"
+      },
+      {
+        "word": "Wolke",
+        "pronunciation": "VOL-ke",
+        "meaning": "Bulut"
+      }
+    ],
+    "Joylar": [
+      {
+        "word": "Stadt",
+        "pronunciation": "shtat",
+        "meaning": "Shahar"
+      },
+      {
+        "word": "Dorf",
+        "pronunciation": "dorf",
+        "meaning": "Qishloq"
+      },
+      {
+        "word": "Schule",
+        "pronunciation": "SHOO-le",
+        "meaning": "Maktab"
+      },
+      {
+        "word": "Krankenhaus",
+        "pronunciation": "KRAN-ken-haus",
+        "meaning": "Kasalxona"
+      },
+      {
+        "word": "Markt",
+        "pronunciation": "markt",
+        "meaning": "Bozor"
+      },
+      {
+        "word": "Flughafen",
+        "pronunciation": "FLOOG-hah-fen",
+        "meaning": "Aeroport"
+      },
+      {
+        "word": "Straße",
+        "pronunciation": "SHTRAH-se",
+        "meaning": "Ko'cha"
+      },
+      {
+        "word": "Park",
+        "pronunciation": "park",
+        "meaning": "Bog'"
+      },
+      {
+        "word": "Restaurant",
+        "pronunciation": "res-tow-RAHNG",
+        "meaning": "Restoran"
+      },
+      {
+        "word": "Bank",
+        "pronunciation": "bank",
+        "meaning": "Bank"
+      }
+    ],
+    "Sifatlar": [
+      {
+        "word": "Groß",
+        "pronunciation": "grohs",
+        "meaning": "Katta"
+      },
+      {
+        "word": "Klein",
+        "pronunciation": "klain",
+        "meaning": "Kichik"
+      },
+      {
+        "word": "Gut",
+        "pronunciation": "goot",
+        "meaning": "Yaxshi"
+      },
+      {
+        "word": "Schlecht",
+        "pronunciation": "shlekht",
+        "meaning": "Yomon"
+      },
+      {
+        "word": "Neu",
+        "pronunciation": "noy",
+        "meaning": "Yangi"
+      },
+      {
+        "word": "Alt",
+        "pronunciation": "alt",
+        "meaning": "Eski"
+      },
+      {
+        "word": "Schnell",
+        "pronunciation": "shnel",
+        "meaning": "Tez"
+      },
+      {
+        "word": "Langsam",
+        "pronunciation": "LANG-zam",
+        "meaning": "Sekin"
+      },
+      {
+        "word": "Schön",
+        "pronunciation": "shuun",
+        "meaning": "Chiroyli"
+      },
+      {
+        "word": "Schwierig",
+        "pronunciation": "SHVEE-rikh",
+        "meaning": "Qiyin"
+      }
+    ],
+    "Fe'llar": [
+      {
+        "word": "Gehen",
+        "pronunciation": "GAY-en",
+        "meaning": "Bormoq"
+      },
+      {
+        "word": "Kommen",
+        "pronunciation": "KOM-en",
+        "meaning": "Kelmoq"
+      },
+      {
+        "word": "Essen",
+        "pronunciation": "ES-sen",
+        "meaning": "Yemoq"
+      },
+      {
+        "word": "Trinken",
+        "pronunciation": "TRIN-ken",
+        "meaning": "Ichmoq"
+      },
+      {
+        "word": "Schlafen",
+        "pronunciation": "SHLAH-fen",
+        "meaning": "Uxlamoq"
+      },
+      {
+        "word": "Arbeiten",
+        "pronunciation": "AR-bai-ten",
+        "meaning": "Ishlamoq"
+      },
+      {
+        "word": "Lesen",
+        "pronunciation": "LAY-zen",
+        "meaning": "O'qimoq"
+      },
+      {
+        "word": "Schreiben",
+        "pronunciation": "SHRAI-ben",
+        "meaning": "Yozmoq"
+      },
+      {
+        "word": "Sprechen",
+        "pronunciation": "SHPREKH-en",
+        "meaning": "Gapirmoq"
+      },
+      {
+        "word": "Sehen",
+        "pronunciation": "ZAY-en",
+        "meaning": "Ko'rmoq"
+      },
+      {
+        "word": "Wollen",
+        "pronunciation": "VOL-en",
+        "meaning": "Xohlamoq"
+      },
+      {
+        "word": "Lieben",
+        "pronunciation": "LEE-ben",
+        "meaning": "Sevmoq"
+      },
+      {
+        "word": "Wissen",
+        "pronunciation": "VIS-sen",
+        "meaning": "Bilmoq"
+      },
+      {
+        "word": "Machen",
+        "pronunciation": "MAKH-en",
+        "meaning": "Qilmoq"
+      },
+      {
+        "word": "Geben",
+        "pronunciation": "GAY-ben",
+        "meaning": "Bermoq"
+      }
+    ]
+  },
+  "xitoy": {
+    "Salomlashish va muloqot": [
+      {
+        "word": "你好",
+        "pronunciation": "Nǐ hǎo",
+        "meaning": "Salom"
+      },
+      {
+        "word": "再见",
+        "pronunciation": "Zàijiàn",
+        "meaning": "Xayr"
+      },
+      {
+        "word": "谢谢",
+        "pronunciation": "Xièxiè",
+        "meaning": "Rahmat"
+      },
+      {
+        "word": "请",
+        "pronunciation": "Qǐng",
+        "meaning": "Iltimos"
+      },
+      {
+        "word": "对不起",
+        "pronunciation": "Duìbùqǐ",
+        "meaning": "Kechirasiz"
+      },
+      {
+        "word": "是",
+        "pronunciation": "Shì",
+        "meaning": "Ha"
+      },
+      {
+        "word": "不是",
+        "pronunciation": "Bù shì",
+        "meaning": "Yo'q"
+      },
+      {
+        "word": "早上好",
+        "pronunciation": "Zǎoshang hǎo",
+        "meaning": "Xayrli tong"
+      },
+      {
+        "word": "晚安",
+        "pronunciation": "Wǎn'ān",
+        "meaning": "Xayrli tun"
+      },
+      {
+        "word": "你好吗？",
+        "pronunciation": "Nǐ hǎo ma?",
+        "meaning": "Qalaysiz?"
+      }
+    ],
+    "Oila": [
+      {
+        "word": "妈妈",
+        "pronunciation": "Māma",
+        "meaning": "Ona"
+      },
+      {
+        "word": "爸爸",
+        "pronunciation": "Bàba",
+        "meaning": "Ota"
+      },
+      {
+        "word": "姐姐",
+        "pronunciation": "Jiějiě",
+        "meaning": "Opa/Singil"
+      },
+      {
+        "word": "哥哥",
+        "pronunciation": "Gēge",
+        "meaning": "Aka/Uka"
+      },
+      {
+        "word": "孩子",
+        "pronunciation": "Háizi",
+        "meaning": "Bola"
+      },
+      {
+        "word": "奶奶",
+        "pronunciation": "Nǎinai",
+        "meaning": "Buvi"
+      },
+      {
+        "word": "爷爷",
+        "pronunciation": "Yéye",
+        "meaning": "Buva"
+      },
+      {
+        "word": "妻子",
+        "pronunciation": "Qīzi",
+        "meaning": "Xotin"
+      },
+      {
+        "word": "丈夫",
+        "pronunciation": "Zhàngfū",
+        "meaning": "Er"
+      },
+      {
+        "word": "朋友",
+        "pronunciation": "Péngyou",
+        "meaning": "Do'st"
+      }
+    ],
+    "Raqamlar (1-20)": [
+      {
+        "word": "一",
+        "pronunciation": "Yī",
+        "meaning": "Bir"
+      },
+      {
+        "word": "二",
+        "pronunciation": "Èr",
+        "meaning": "Ikki"
+      },
+      {
+        "word": "三",
+        "pronunciation": "Sān",
+        "meaning": "Uch"
+      },
+      {
+        "word": "四",
+        "pronunciation": "Sì",
+        "meaning": "To'rt"
+      },
+      {
+        "word": "五",
+        "pronunciation": "Wǔ",
+        "meaning": "Besh"
+      },
+      {
+        "word": "六",
+        "pronunciation": "Liù",
+        "meaning": "Olti"
+      },
+      {
+        "word": "七",
+        "pronunciation": "Qī",
+        "meaning": "Yetti"
+      },
+      {
+        "word": "八",
+        "pronunciation": "Bā",
+        "meaning": "Sakkiz"
+      },
+      {
+        "word": "九",
+        "pronunciation": "Jiǔ",
+        "meaning": "To'qqiz"
+      },
+      {
+        "word": "十",
+        "pronunciation": "Shí",
+        "meaning": "O'n"
+      },
+      {
+        "word": "十一",
+        "pronunciation": "Shíyī",
+        "meaning": "O'n bir"
+      },
+      {
+        "word": "十二",
+        "pronunciation": "Shí'èr",
+        "meaning": "O'n ikki"
+      },
+      {
+        "word": "十三",
+        "pronunciation": "Shísān",
+        "meaning": "O'n uch"
+      },
+      {
+        "word": "十四",
+        "pronunciation": "Shísì",
+        "meaning": "O'n to'rt"
+      },
+      {
+        "word": "十五",
+        "pronunciation": "Shíwǔ",
+        "meaning": "O'n besh"
+      },
+      {
+        "word": "十六",
+        "pronunciation": "Shíliù",
+        "meaning": "O'n olti"
+      },
+      {
+        "word": "十七",
+        "pronunciation": "Shíqī",
+        "meaning": "O'n yetti"
+      },
+      {
+        "word": "十八",
+        "pronunciation": "Shíbā",
+        "meaning": "O'n sakkiz"
+      },
+      {
+        "word": "十九",
+        "pronunciation": "Shíjiǔ",
+        "meaning": "O'n to'qqiz"
+      },
+      {
+        "word": "二十",
+        "pronunciation": "Èrshí",
+        "meaning": "Yigirma"
+      }
+    ],
+    "Hafta kunlari": [
+      {
+        "word": "星期一",
+        "pronunciation": "Xīngqīyī",
+        "meaning": "Dushanba"
+      },
+      {
+        "word": "星期二",
+        "pronunciation": "Xīngqī'èr",
+        "meaning": "Seshanba"
+      },
+      {
+        "word": "星期三",
+        "pronunciation": "Xīngqīsān",
+        "meaning": "Chorshanba"
+      },
+      {
+        "word": "星期四",
+        "pronunciation": "Xīngqīsì",
+        "meaning": "Payshanba"
+      },
+      {
+        "word": "星期五",
+        "pronunciation": "Xīngqīwǔ",
+        "meaning": "Juma"
+      },
+      {
+        "word": "星期六",
+        "pronunciation": "Xīngqīliù",
+        "meaning": "Shanba"
+      },
+      {
+        "word": "星期日",
+        "pronunciation": "Xīngqīrì",
+        "meaning": "Yakshanba"
+      }
+    ],
+    "Oylar": [
+      {
+        "word": "一月",
+        "pronunciation": "Yīyuè",
+        "meaning": "Yanvar"
+      },
+      {
+        "word": "二月",
+        "pronunciation": "Èryuè",
+        "meaning": "Fevral"
+      },
+      {
+        "word": "三月",
+        "pronunciation": "Sānyuè",
+        "meaning": "Mart"
+      },
+      {
+        "word": "四月",
+        "pronunciation": "Sìyuè",
+        "meaning": "Aprel"
+      },
+      {
+        "word": "五月",
+        "pronunciation": "Wǔyuè",
+        "meaning": "May"
+      },
+      {
+        "word": "六月",
+        "pronunciation": "Liùyuè",
+        "meaning": "Iyun"
+      },
+      {
+        "word": "七月",
+        "pronunciation": "Qīyuè",
+        "meaning": "Iyul"
+      },
+      {
+        "word": "八月",
+        "pronunciation": "Bāyuè",
+        "meaning": "Avgust"
+      },
+      {
+        "word": "九月",
+        "pronunciation": "Jiǔyuè",
+        "meaning": "Sentabr"
+      },
+      {
+        "word": "十月",
+        "pronunciation": "Shíyuè",
+        "meaning": "Oktabr"
+      },
+      {
+        "word": "十一月",
+        "pronunciation": "Shíyīyuè",
+        "meaning": "Noyabr"
+      },
+      {
+        "word": "十二月",
+        "pronunciation": "Shí'èryuè",
+        "meaning": "Dekabr"
+      }
+    ],
+    "Ovqat-ichimlik": [
+      {
+        "word": "面包",
+        "pronunciation": "Miànbāo",
+        "meaning": "Non"
+      },
+      {
+        "word": "水",
+        "pronunciation": "Shuǐ",
+        "meaning": "Suv"
+      },
+      {
+        "word": "咖啡",
+        "pronunciation": "Kāfēi",
+        "meaning": "Qahva"
+      },
+      {
+        "word": "茶",
+        "pronunciation": "Chá",
+        "meaning": "Choy"
+      },
+      {
+        "word": "苹果",
+        "pronunciation": "Píngguǒ",
+        "meaning": "Olma"
+      },
+      {
+        "word": "米饭",
+        "pronunciation": "Mǐfàn",
+        "meaning": "Guruch"
+      },
+      {
+        "word": "肉",
+        "pronunciation": "Ròu",
+        "meaning": "Go'sht"
+      },
+      {
+        "word": "牛奶",
+        "pronunciation": "Niúnǎi",
+        "meaning": "Sut"
+      },
+      {
+        "word": "鸡蛋",
+        "pronunciation": "Jīdàn",
+        "meaning": "Tuxum"
+      },
+      {
+        "word": "糖",
+        "pronunciation": "Táng",
+        "meaning": "Shakar"
+      },
+      {
+        "word": "盐",
+        "pronunciation": "Yán",
+        "meaning": "Tuz"
+      },
+      {
+        "word": "汤",
+        "pronunciation": "Tāng",
+        "meaning": "Sho'rva"
+      },
+      {
+        "word": "鱼",
+        "pronunciation": "Yú",
+        "meaning": "Baliq"
+      },
+      {
+        "word": "蔬菜",
+        "pronunciation": "Shūcài",
+        "meaning": "Sabzavot"
+      },
+      {
+        "word": "水果",
+        "pronunciation": "Shuǐguǒ",
+        "meaning": "Meva"
+      }
+    ],
+    "Ranglar": [
+      {
+        "word": "红色",
+        "pronunciation": "Hóngsè",
+        "meaning": "Qizil"
+      },
+      {
+        "word": "蓝色",
+        "pronunciation": "Lánsè",
+        "meaning": "Ko'k"
+      },
+      {
+        "word": "绿色",
+        "pronunciation": "Lǜsè",
+        "meaning": "Yashil"
+      },
+      {
+        "word": "黄色",
+        "pronunciation": "Huángsè",
+        "meaning": "Sariq"
+      },
+      {
+        "word": "黑色",
+        "pronunciation": "Hēisè",
+        "meaning": "Qora"
+      },
+      {
+        "word": "白色",
+        "pronunciation": "Báisè",
+        "meaning": "Oq"
+      },
+      {
+        "word": "橙色",
+        "pronunciation": "Chéngsè",
+        "meaning": "To'q sariq"
+      },
+      {
+        "word": "粉色",
+        "pronunciation": "Fěnsè",
+        "meaning": "Pushti"
+      },
+      {
+        "word": "灰色",
+        "pronunciation": "Huīsè",
+        "meaning": "Kulrang"
+      },
+      {
+        "word": "棕色",
+        "pronunciation": "Zōngsè",
+        "meaning": "Jigarrang"
+      }
+    ],
+    "Tana qismlari": [
+      {
+        "word": "头",
+        "pronunciation": "Tóu",
+        "meaning": "Bosh"
+      },
+      {
+        "word": "眼睛",
+        "pronunciation": "Yǎnjīng",
+        "meaning": "Ko'z"
+      },
+      {
+        "word": "手",
+        "pronunciation": "Shǒu",
+        "meaning": "Qo'l"
+      },
+      {
+        "word": "腿",
+        "pronunciation": "Tuǐ",
+        "meaning": "Oyoq"
+      },
+      {
+        "word": "耳朵",
+        "pronunciation": "Ěrduo",
+        "meaning": "Quloq"
+      },
+      {
+        "word": "鼻子",
+        "pronunciation": "Bízi",
+        "meaning": "Burun"
+      },
+      {
+        "word": "嘴",
+        "pronunciation": "Zuǐ",
+        "meaning": "Og'iz"
+      },
+      {
+        "word": "心",
+        "pronunciation": "Xīn",
+        "meaning": "Yurak"
+      },
+      {
+        "word": "头发",
+        "pronunciation": "Tóufa",
+        "meaning": "Soch"
+      },
+      {
+        "word": "牙",
+        "pronunciation": "Yá",
+        "meaning": "Tish"
+      }
+    ],
+    "Hayvonlar": [
+      {
+        "word": "狗",
+        "pronunciation": "Gǒu",
+        "meaning": "It"
+      },
+      {
+        "word": "猫",
+        "pronunciation": "Māo",
+        "meaning": "Mushuk"
+      },
+      {
+        "word": "鸟",
+        "pronunciation": "Niǎo",
+        "meaning": "Qush"
+      },
+      {
+        "word": "马",
+        "pronunciation": "Mǎ",
+        "meaning": "Ot"
+      },
+      {
+        "word": "牛",
+        "pronunciation": "Niú",
+        "meaning": "Sigir"
+      },
+      {
+        "word": "羊",
+        "pronunciation": "Yáng",
+        "meaning": "Qo'y"
+      },
+      {
+        "word": "狮子",
+        "pronunciation": "Shīzi",
+        "meaning": "Sher"
+      },
+      {
+        "word": "熊",
+        "pronunciation": "Xióng",
+        "meaning": "Ayiq"
+      },
+      {
+        "word": "象",
+        "pronunciation": "Xiàng",
+        "meaning": "Fil"
+      },
+      {
+        "word": "兔子",
+        "pronunciation": "Tùzi",
+        "meaning": "Quyon"
+      }
+    ],
+    "Uy va buyumlar": [
+      {
+        "word": "房子",
+        "pronunciation": "Fángzi",
+        "meaning": "Uy"
+      },
+      {
+        "word": "门",
+        "pronunciation": "Mén",
+        "meaning": "Eshik"
+      },
+      {
+        "word": "窗户",
+        "pronunciation": "Chuānghù",
+        "meaning": "Deraza"
+      },
+      {
+        "word": "桌子",
+        "pronunciation": "Zhuōzi",
+        "meaning": "Stol"
+      },
+      {
+        "word": "椅子",
+        "pronunciation": "Yǐzi",
+        "meaning": "Stul"
+      },
+      {
+        "word": "床",
+        "pronunciation": "Chuáng",
+        "meaning": "Karavot"
+      },
+      {
+        "word": "书",
+        "pronunciation": "Shū",
+        "meaning": "Kitob"
+      },
+      {
+        "word": "笔",
+        "pronunciation": "Bǐ",
+        "meaning": "Qalam"
+      },
+      {
+        "word": "电话",
+        "pronunciation": "Diànhuà",
+        "meaning": "Telefon"
+      },
+      {
+        "word": "钥匙",
+        "pronunciation": "Yàoshi",
+        "meaning": "Kalit"
+      }
+    ],
+    "Kiyim-kechak": [
+      {
+        "word": "衬衫",
+        "pronunciation": "Chènshān",
+        "meaning": "Ko'ylak"
+      },
+      {
+        "word": "裤子",
+        "pronunciation": "Kùzi",
+        "meaning": "Shim"
+      },
+      {
+        "word": "鞋子",
+        "pronunciation": "Xiézi",
+        "meaning": "Poyabzal"
+      },
+      {
+        "word": "帽子",
+        "pronunciation": "Màozi",
+        "meaning": "Shlyapa"
+      },
+      {
+        "word": "裙子",
+        "pronunciation": "Qúnzi",
+        "meaning": "Libos"
+      },
+      {
+        "word": "夹克",
+        "pronunciation": "Jiákè",
+        "meaning": "Kurtka"
+      },
+      {
+        "word": "袜子",
+        "pronunciation": "Wàzi",
+        "meaning": "Paypoq"
+      },
+      {
+        "word": "包",
+        "pronunciation": "Bāo",
+        "meaning": "Sumka"
+      }
+    ],
+    "Kasblar": [
+      {
+        "word": "老师",
+        "pronunciation": "Lǎoshī",
+        "meaning": "O'qituvchi"
+      },
+      {
+        "word": "医生",
+        "pronunciation": "Yīshēng",
+        "meaning": "Shifokor"
+      },
+      {
+        "word": "工程师",
+        "pronunciation": "Gōngchéngshī",
+        "meaning": "Muhandis"
+      },
+      {
+        "word": "司机",
+        "pronunciation": "Sījī",
+        "meaning": "Haydovchi"
+      },
+      {
+        "word": "厨师",
+        "pronunciation": "Chúshī",
+        "meaning": "Oshpaz"
+      },
+      {
+        "word": "警察",
+        "pronunciation": "Jǐngchá",
+        "meaning": "Politsiya xodimi"
+      },
+      {
+        "word": "学生",
+        "pronunciation": "Xuéshēng",
+        "meaning": "Talaba"
+      },
+      {
+        "word": "工人",
+        "pronunciation": "Gōngrén",
+        "meaning": "Ishchi"
+      },
+      {
+        "word": "农民",
+        "pronunciation": "Nóngmín",
+        "meaning": "Dehqon"
+      },
+      {
+        "word": "护士",
+        "pronunciation": "Hùshi",
+        "meaning": "Hamshira"
+      }
+    ],
+    "Vaqt va ob-havo": [
+      {
+        "word": "今天",
+        "pronunciation": "Jīntiān",
+        "meaning": "Bugun"
+      },
+      {
+        "word": "明天",
+        "pronunciation": "Míngtiān",
+        "meaning": "Ertaga"
+      },
+      {
+        "word": "昨天",
+        "pronunciation": "Zuótiān",
+        "meaning": "Kecha"
+      },
+      {
+        "word": "太阳",
+        "pronunciation": "Tàiyáng",
+        "meaning": "Quyosh"
+      },
+      {
+        "word": "雨",
+        "pronunciation": "Yǔ",
+        "meaning": "Yomg'ir"
+      },
+      {
+        "word": "雪",
+        "pronunciation": "Xuě",
+        "meaning": "Qor"
+      },
+      {
+        "word": "风",
+        "pronunciation": "Fēng",
+        "meaning": "Shamol"
+      },
+      {
+        "word": "热",
+        "pronunciation": "Rè",
+        "meaning": "Issiq"
+      },
+      {
+        "word": "冷",
+        "pronunciation": "Lěng",
+        "meaning": "Sovuq"
+      },
+      {
+        "word": "云",
+        "pronunciation": "Yún",
+        "meaning": "Bulut"
+      }
+    ],
+    "Joylar": [
+      {
+        "word": "城市",
+        "pronunciation": "Chéngshì",
+        "meaning": "Shahar"
+      },
+      {
+        "word": "村庄",
+        "pronunciation": "Cūnzhuāng",
+        "meaning": "Qishloq"
+      },
+      {
+        "word": "学校",
+        "pronunciation": "Xuéxiào",
+        "meaning": "Maktab"
+      },
+      {
+        "word": "医院",
+        "pronunciation": "Yīyuàn",
+        "meaning": "Kasalxona"
+      },
+      {
+        "word": "市场",
+        "pronunciation": "Shìchǎng",
+        "meaning": "Bozor"
+      },
+      {
+        "word": "机场",
+        "pronunciation": "Jīchǎng",
+        "meaning": "Aeroport"
+      },
+      {
+        "word": "街道",
+        "pronunciation": "Jiēdào",
+        "meaning": "Ko'cha"
+      },
+      {
+        "word": "公园",
+        "pronunciation": "Gōngyuán",
+        "meaning": "Bog'"
+      },
+      {
+        "word": "餐厅",
+        "pronunciation": "Cāntīng",
+        "meaning": "Restoran"
+      },
+      {
+        "word": "银行",
+        "pronunciation": "Yínháng",
+        "meaning": "Bank"
+      }
+    ],
+    "Sifatlar": [
+      {
+        "word": "大",
+        "pronunciation": "Dà",
+        "meaning": "Katta"
+      },
+      {
+        "word": "小",
+        "pronunciation": "Xiǎo",
+        "meaning": "Kichik"
+      },
+      {
+        "word": "好",
+        "pronunciation": "Hǎo",
+        "meaning": "Yaxshi"
+      },
+      {
+        "word": "坏",
+        "pronunciation": "Huài",
+        "meaning": "Yomon"
+      },
+      {
+        "word": "新",
+        "pronunciation": "Xīn",
+        "meaning": "Yangi"
+      },
+      {
+        "word": "旧",
+        "pronunciation": "Jiù",
+        "meaning": "Eski"
+      },
+      {
+        "word": "快",
+        "pronunciation": "Kuài",
+        "meaning": "Tez"
+      },
+      {
+        "word": "慢",
+        "pronunciation": "Màn",
+        "meaning": "Sekin"
+      },
+      {
+        "word": "美丽",
+        "pronunciation": "Měilì",
+        "meaning": "Chiroyli"
+      },
+      {
+        "word": "难",
+        "pronunciation": "Nán",
+        "meaning": "Qiyin"
+      }
+    ],
+    "Fe'llar": [
+      {
+        "word": "去",
+        "pronunciation": "Qù",
+        "meaning": "Bormoq"
+      },
+      {
+        "word": "来",
+        "pronunciation": "Lái",
+        "meaning": "Kelmoq"
+      },
+      {
+        "word": "吃",
+        "pronunciation": "Chī",
+        "meaning": "Yemoq"
+      },
+      {
+        "word": "喝",
+        "pronunciation": "Hē",
+        "meaning": "Ichmoq"
+      },
+      {
+        "word": "睡觉",
+        "pronunciation": "Shuìjiào",
+        "meaning": "Uxlamoq"
+      },
+      {
+        "word": "工作",
+        "pronunciation": "Gōngzuò",
+        "meaning": "Ishlamoq"
+      },
+      {
+        "word": "读",
+        "pronunciation": "Dú",
+        "meaning": "O'qimoq"
+      },
+      {
+        "word": "写",
+        "pronunciation": "Xiě",
+        "meaning": "Yozmoq"
+      },
+      {
+        "word": "说话",
+        "pronunciation": "Shuōhuà",
+        "meaning": "Gapirmoq"
+      },
+      {
+        "word": "看",
+        "pronunciation": "Kàn",
+        "meaning": "Ko'rmoq"
+      },
+      {
+        "word": "想要",
+        "pronunciation": "Xiǎngyào",
+        "meaning": "Xohlamoq"
+      },
+      {
+        "word": "爱",
+        "pronunciation": "Ài",
+        "meaning": "Sevmoq"
+      },
+      {
+        "word": "知道",
+        "pronunciation": "Zhīdào",
+        "meaning": "Bilmoq"
+      },
+      {
+        "word": "做",
+        "pronunciation": "Zuò",
+        "meaning": "Qilmoq"
+      },
+      {
+        "word": "给",
+        "pronunciation": "Gěi",
+        "meaning": "Bermoq"
+      }
+    ]
+  },
+  "italyan": {
+    "Salomlashish va muloqot": [
+      {
+        "word": "Ciao",
+        "pronunciation": "CHAH-o",
+        "meaning": "Salom"
+      },
+      {
+        "word": "Arrivederci",
+        "pronunciation": "ar-ri-ve-DER-chi",
+        "meaning": "Xayr"
+      },
+      {
+        "word": "Grazie",
+        "pronunciation": "GRA-tsye",
+        "meaning": "Rahmat"
+      },
+      {
+        "word": "Per favore",
+        "pronunciation": "per fa-VO-re",
+        "meaning": "Iltimos"
+      },
+      {
+        "word": "Scusa",
+        "pronunciation": "SKOO-za",
+        "meaning": "Kechirasiz"
+      },
+      {
+        "word": "Sì",
+        "pronunciation": "see",
+        "meaning": "Ha"
+      },
+      {
+        "word": "No",
+        "pronunciation": "no",
+        "meaning": "Yo'q"
+      },
+      {
+        "word": "Buongiorno",
+        "pronunciation": "bwon-JOR-no",
+        "meaning": "Xayrli tong"
+      },
+      {
+        "word": "Buonanotte",
+        "pronunciation": "bwo-na-NOT-te",
+        "meaning": "Xayrli tun"
+      },
+      {
+        "word": "Come stai?",
+        "pronunciation": "KO-me STAI",
+        "meaning": "Qalaysiz?"
+      }
+    ],
+    "Oila": [
+      {
+        "word": "Madre",
+        "pronunciation": "MA-dre",
+        "meaning": "Ona"
+      },
+      {
+        "word": "Padre",
+        "pronunciation": "PA-dre",
+        "meaning": "Ota"
+      },
+      {
+        "word": "Sorella",
+        "pronunciation": "so-REL-la",
+        "meaning": "Opa/Singil"
+      },
+      {
+        "word": "Fratello",
+        "pronunciation": "fra-TEL-lo",
+        "meaning": "Aka/Uka"
+      },
+      {
+        "word": "Bambino",
+        "pronunciation": "bam-BEE-no",
+        "meaning": "Bola"
+      },
+      {
+        "word": "Nonna",
+        "pronunciation": "NON-na",
+        "meaning": "Buvi"
+      },
+      {
+        "word": "Nonno",
+        "pronunciation": "NON-no",
+        "meaning": "Buva"
+      },
+      {
+        "word": "Moglie",
+        "pronunciation": "MO-lye",
+        "meaning": "Xotin"
+      },
+      {
+        "word": "Marito",
+        "pronunciation": "ma-REE-to",
+        "meaning": "Er"
+      },
+      {
+        "word": "Amico",
+        "pronunciation": "a-MEE-ko",
+        "meaning": "Do'st"
+      }
+    ],
+    "Raqamlar (1-20)": [
+      {
+        "word": "Uno",
+        "pronunciation": "OO-no",
+        "meaning": "Bir"
+      },
+      {
+        "word": "Due",
+        "pronunciation": "DOO-e",
+        "meaning": "Ikki"
+      },
+      {
+        "word": "Tre",
+        "pronunciation": "tre",
+        "meaning": "Uch"
+      },
+      {
+        "word": "Quattro",
+        "pronunciation": "KWAT-tro",
+        "meaning": "To'rt"
+      },
+      {
+        "word": "Cinque",
+        "pronunciation": "CHEEN-kwe",
+        "meaning": "Besh"
+      },
+      {
+        "word": "Sei",
+        "pronunciation": "sey",
+        "meaning": "Olti"
+      },
+      {
+        "word": "Sette",
+        "pronunciation": "SET-te",
+        "meaning": "Yetti"
+      },
+      {
+        "word": "Otto",
+        "pronunciation": "OT-to",
+        "meaning": "Sakkiz"
+      },
+      {
+        "word": "Nove",
+        "pronunciation": "NO-ve",
+        "meaning": "To'qqiz"
+      },
+      {
+        "word": "Dieci",
+        "pronunciation": "DYE-chi",
+        "meaning": "O'n"
+      },
+      {
+        "word": "Undici",
+        "pronunciation": "OON-di-chi",
+        "meaning": "O'n bir"
+      },
+      {
+        "word": "Dodici",
+        "pronunciation": "DO-di-chi",
+        "meaning": "O'n ikki"
+      },
+      {
+        "word": "Tredici",
+        "pronunciation": "TRE-di-chi",
+        "meaning": "O'n uch"
+      },
+      {
+        "word": "Quattordici",
+        "pronunciation": "kwat-TOR-di-chi",
+        "meaning": "O'n to'rt"
+      },
+      {
+        "word": "Quindici",
+        "pronunciation": "KWEEN-di-chi",
+        "meaning": "O'n besh"
+      },
+      {
+        "word": "Sedici",
+        "pronunciation": "SE-di-chi",
+        "meaning": "O'n olti"
+      },
+      {
+        "word": "Diciassette",
+        "pronunciation": "di-chas-SET-te",
+        "meaning": "O'n yetti"
+      },
+      {
+        "word": "Diciotto",
+        "pronunciation": "di-CHOT-to",
+        "meaning": "O'n sakkiz"
+      },
+      {
+        "word": "Diciannove",
+        "pronunciation": "di-chan-NO-ve",
+        "meaning": "O'n to'qqiz"
+      },
+      {
+        "word": "Venti",
+        "pronunciation": "VEN-ti",
+        "meaning": "Yigirma"
+      }
+    ],
+    "Hafta kunlari": [
+      {
+        "word": "Lunedì",
+        "pronunciation": "loo-ne-DEE",
+        "meaning": "Dushanba"
+      },
+      {
+        "word": "Martedì",
+        "pronunciation": "mar-te-DEE",
+        "meaning": "Seshanba"
+      },
+      {
+        "word": "Mercoledì",
+        "pronunciation": "mer-ko-le-DEE",
+        "meaning": "Chorshanba"
+      },
+      {
+        "word": "Giovedì",
+        "pronunciation": "jo-ve-DEE",
+        "meaning": "Payshanba"
+      },
+      {
+        "word": "Venerdì",
+        "pronunciation": "ve-ner-DEE",
+        "meaning": "Juma"
+      },
+      {
+        "word": "Sabato",
+        "pronunciation": "SA-ba-to",
+        "meaning": "Shanba"
+      },
+      {
+        "word": "Domenica",
+        "pronunciation": "do-ME-ni-ka",
+        "meaning": "Yakshanba"
+      }
+    ],
+    "Oylar": [
+      {
+        "word": "Gennaio",
+        "pronunciation": "jen-NA-yo",
+        "meaning": "Yanvar"
+      },
+      {
+        "word": "Febbraio",
+        "pronunciation": "feb-BRA-yo",
+        "meaning": "Fevral"
+      },
+      {
+        "word": "Marzo",
+        "pronunciation": "MAR-tso",
+        "meaning": "Mart"
+      },
+      {
+        "word": "Aprile",
+        "pronunciation": "a-PREE-le",
+        "meaning": "Aprel"
+      },
+      {
+        "word": "Maggio",
+        "pronunciation": "MAD-jo",
+        "meaning": "May"
+      },
+      {
+        "word": "Giugno",
+        "pronunciation": "JOO-nyo",
+        "meaning": "Iyun"
+      },
+      {
+        "word": "Luglio",
+        "pronunciation": "LOO-lyo",
+        "meaning": "Iyul"
+      },
+      {
+        "word": "Agosto",
+        "pronunciation": "a-GOS-to",
+        "meaning": "Avgust"
+      },
+      {
+        "word": "Settembre",
+        "pronunciation": "set-TEM-bre",
+        "meaning": "Sentabr"
+      },
+      {
+        "word": "Ottobre",
+        "pronunciation": "ot-TO-bre",
+        "meaning": "Oktabr"
+      },
+      {
+        "word": "Novembre",
+        "pronunciation": "no-VEM-bre",
+        "meaning": "Noyabr"
+      },
+      {
+        "word": "Dicembre",
+        "pronunciation": "di-CHEM-bre",
+        "meaning": "Dekabr"
+      }
+    ],
+    "Ovqat-ichimlik": [
+      {
+        "word": "Pane",
+        "pronunciation": "PA-ne",
+        "meaning": "Non"
+      },
+      {
+        "word": "Acqua",
+        "pronunciation": "AK-kwa",
+        "meaning": "Suv"
+      },
+      {
+        "word": "Caffè",
+        "pronunciation": "kaf-FEH",
+        "meaning": "Qahva"
+      },
+      {
+        "word": "Tè",
+        "pronunciation": "te",
+        "meaning": "Choy"
+      },
+      {
+        "word": "Mela",
+        "pronunciation": "ME-la",
+        "meaning": "Olma"
+      },
+      {
+        "word": "Riso",
+        "pronunciation": "REE-zo",
+        "meaning": "Guruch"
+      },
+      {
+        "word": "Carne",
+        "pronunciation": "KAR-ne",
+        "meaning": "Go'sht"
+      },
+      {
+        "word": "Latte",
+        "pronunciation": "LAT-te",
+        "meaning": "Sut"
+      },
+      {
+        "word": "Uovo",
+        "pronunciation": "WO-vo",
+        "meaning": "Tuxum"
+      },
+      {
+        "word": "Zucchero",
+        "pronunciation": "tsuk-KE-ro",
+        "meaning": "Shakar"
+      },
+      {
+        "word": "Sale",
+        "pronunciation": "SA-le",
+        "meaning": "Tuz"
+      },
+      {
+        "word": "Zuppa",
+        "pronunciation": "TSUP-pa",
+        "meaning": "Sho'rva"
+      },
+      {
+        "word": "Pesce",
+        "pronunciation": "PE-she",
+        "meaning": "Baliq"
+      },
+      {
+        "word": "Verdura",
+        "pronunciation": "ver-DOO-ra",
+        "meaning": "Sabzavot"
+      },
+      {
+        "word": "Frutta",
+        "pronunciation": "FROOT-ta",
+        "meaning": "Meva"
+      }
+    ],
+    "Ranglar": [
+      {
+        "word": "Rosso",
+        "pronunciation": "ROS-so",
+        "meaning": "Qizil"
+      },
+      {
+        "word": "Blu",
+        "pronunciation": "bloo",
+        "meaning": "Ko'k"
+      },
+      {
+        "word": "Verde",
+        "pronunciation": "VER-de",
+        "meaning": "Yashil"
+      },
+      {
+        "word": "Giallo",
+        "pronunciation": "JAL-lo",
+        "meaning": "Sariq"
+      },
+      {
+        "word": "Nero",
+        "pronunciation": "NE-ro",
+        "meaning": "Qora"
+      },
+      {
+        "word": "Bianco",
+        "pronunciation": "BYAN-ko",
+        "meaning": "Oq"
+      },
+      {
+        "word": "Arancione",
+        "pronunciation": "a-ran-CHO-ne",
+        "meaning": "To'q sariq"
+      },
+      {
+        "word": "Rosa",
+        "pronunciation": "RO-za",
+        "meaning": "Pushti"
+      },
+      {
+        "word": "Grigio",
+        "pronunciation": "GREE-jo",
+        "meaning": "Kulrang"
+      },
+      {
+        "word": "Marrone",
+        "pronunciation": "mar-RO-ne",
+        "meaning": "Jigarrang"
+      }
+    ],
+    "Tana qismlari": [
+      {
+        "word": "Testa",
+        "pronunciation": "TES-ta",
+        "meaning": "Bosh"
+      },
+      {
+        "word": "Occhio",
+        "pronunciation": "OK-kyo",
+        "meaning": "Ko'z"
+      },
+      {
+        "word": "Mano",
+        "pronunciation": "MA-no",
+        "meaning": "Qo'l"
+      },
+      {
+        "word": "Gamba",
+        "pronunciation": "GAM-ba",
+        "meaning": "Oyoq"
+      },
+      {
+        "word": "Orecchio",
+        "pronunciation": "o-REK-kyo",
+        "meaning": "Quloq"
+      },
+      {
+        "word": "Naso",
+        "pronunciation": "NA-zo",
+        "meaning": "Burun"
+      },
+      {
+        "word": "Bocca",
+        "pronunciation": "BOK-ka",
+        "meaning": "Og'iz"
+      },
+      {
+        "word": "Cuore",
+        "pronunciation": "KWO-re",
+        "meaning": "Yurak"
+      },
+      {
+        "word": "Capelli",
+        "pronunciation": "ka-PEL-li",
+        "meaning": "Soch"
+      },
+      {
+        "word": "Dente",
+        "pronunciation": "DEN-te",
+        "meaning": "Tish"
+      }
+    ],
+    "Hayvonlar": [
+      {
+        "word": "Cane",
+        "pronunciation": "KA-ne",
+        "meaning": "It"
+      },
+      {
+        "word": "Gatto",
+        "pronunciation": "GAT-to",
+        "meaning": "Mushuk"
+      },
+      {
+        "word": "Uccello",
+        "pronunciation": "ut-CHEL-lo",
+        "meaning": "Qush"
+      },
+      {
+        "word": "Cavallo",
+        "pronunciation": "ka-VAL-lo",
+        "meaning": "Ot"
+      },
+      {
+        "word": "Vacca",
+        "pronunciation": "VAK-ka",
+        "meaning": "Sigir"
+      },
+      {
+        "word": "Pecora",
+        "pronunciation": "PE-ko-ra",
+        "meaning": "Qo'y"
+      },
+      {
+        "word": "Leone",
+        "pronunciation": "le-O-ne",
+        "meaning": "Sher"
+      },
+      {
+        "word": "Orso",
+        "pronunciation": "OR-so",
+        "meaning": "Ayiq"
+      },
+      {
+        "word": "Elefante",
+        "pronunciation": "e-le-FAN-te",
+        "meaning": "Fil"
+      },
+      {
+        "word": "Coniglio",
+        "pronunciation": "ko-NEE-lyo",
+        "meaning": "Quyon"
+      }
+    ],
+    "Uy va buyumlar": [
+      {
+        "word": "Casa",
+        "pronunciation": "KA-za",
+        "meaning": "Uy"
+      },
+      {
+        "word": "Porta",
+        "pronunciation": "POR-ta",
+        "meaning": "Eshik"
+      },
+      {
+        "word": "Finestra",
+        "pronunciation": "fi-NES-tra",
+        "meaning": "Deraza"
+      },
+      {
+        "word": "Tavolo",
+        "pronunciation": "TA-vo-lo",
+        "meaning": "Stol"
+      },
+      {
+        "word": "Sedia",
+        "pronunciation": "SE-dya",
+        "meaning": "Stul"
+      },
+      {
+        "word": "Letto",
+        "pronunciation": "LET-to",
+        "meaning": "Karavot"
+      },
+      {
+        "word": "Libro",
+        "pronunciation": "LEE-bro",
+        "meaning": "Kitob"
+      },
+      {
+        "word": "Penna",
+        "pronunciation": "PEN-na",
+        "meaning": "Qalam"
+      },
+      {
+        "word": "Telefono",
+        "pronunciation": "te-LE-fo-no",
+        "meaning": "Telefon"
+      },
+      {
+        "word": "Chiave",
+        "pronunciation": "KYA-ve",
+        "meaning": "Kalit"
+      }
+    ],
+    "Kiyim-kechak": [
+      {
+        "word": "Camicia",
+        "pronunciation": "ka-MEE-cha",
+        "meaning": "Ko'ylak"
+      },
+      {
+        "word": "Pantaloni",
+        "pronunciation": "pan-ta-LO-ni",
+        "meaning": "Shim"
+      },
+      {
+        "word": "Scarpe",
+        "pronunciation": "SKAR-pe",
+        "meaning": "Poyabzal"
+      },
+      {
+        "word": "Cappello",
+        "pronunciation": "kap-PEL-lo",
+        "meaning": "Shlyapa"
+      },
+      {
+        "word": "Vestito",
+        "pronunciation": "ves-TEE-to",
+        "meaning": "Libos"
+      },
+      {
+        "word": "Giacca",
+        "pronunciation": "JAK-ka",
+        "meaning": "Kurtka"
+      },
+      {
+        "word": "Calzini",
+        "pronunciation": "kal-TSEE-ni",
+        "meaning": "Paypoq"
+      },
+      {
+        "word": "Borsa",
+        "pronunciation": "BOR-sa",
+        "meaning": "Sumka"
+      }
+    ],
+    "Kasblar": [
+      {
+        "word": "Insegnante",
+        "pronunciation": "in-se-NYAN-te",
+        "meaning": "O'qituvchi"
+      },
+      {
+        "word": "Medico",
+        "pronunciation": "ME-di-ko",
+        "meaning": "Shifokor"
+      },
+      {
+        "word": "Ingegnere",
+        "pronunciation": "in-je-NYE-re",
+        "meaning": "Muhandis"
+      },
+      {
+        "word": "Guidatore",
+        "pronunciation": "gwi-da-TO-re",
+        "meaning": "Haydovchi"
+      },
+      {
+        "word": "Cuoco",
+        "pronunciation": "KWO-ko",
+        "meaning": "Oshpaz"
+      },
+      {
+        "word": "Poliziotto",
+        "pronunciation": "po-li-TSYOT-to",
+        "meaning": "Politsiya xodimi"
+      },
+      {
+        "word": "Studente",
+        "pronunciation": "stu-DEN-te",
+        "meaning": "Talaba"
+      },
+      {
+        "word": "Lavoratore",
+        "pronunciation": "la-vo-ra-TO-re",
+        "meaning": "Ishchi"
+      },
+      {
+        "word": "Agricoltore",
+        "pronunciation": "a-gri-kol-TO-re",
+        "meaning": "Dehqon"
+      },
+      {
+        "word": "Infermiera",
+        "pronunciation": "in-fer-MYE-ra",
+        "meaning": "Hamshira"
+      }
+    ],
+    "Vaqt va ob-havo": [
+      {
+        "word": "Oggi",
+        "pronunciation": "OD-ji",
+        "meaning": "Bugun"
+      },
+      {
+        "word": "Domani",
+        "pronunciation": "do-MA-ni",
+        "meaning": "Ertaga"
+      },
+      {
+        "word": "Ieri",
+        "pronunciation": "YE-ri",
+        "meaning": "Kecha"
+      },
+      {
+        "word": "Sole",
+        "pronunciation": "SO-le",
+        "meaning": "Quyosh"
+      },
+      {
+        "word": "Pioggia",
+        "pronunciation": "PYOD-ja",
+        "meaning": "Yomg'ir"
+      },
+      {
+        "word": "Neve",
+        "pronunciation": "NE-ve",
+        "meaning": "Qor"
+      },
+      {
+        "word": "Vento",
+        "pronunciation": "VEN-to",
+        "meaning": "Shamol"
+      },
+      {
+        "word": "Caldo",
+        "pronunciation": "KAL-do",
+        "meaning": "Issiq"
+      },
+      {
+        "word": "Freddo",
+        "pronunciation": "FRED-do",
+        "meaning": "Sovuq"
+      },
+      {
+        "word": "Nuvola",
+        "pronunciation": "NOO-vo-la",
+        "meaning": "Bulut"
+      }
+    ],
+    "Joylar": [
+      {
+        "word": "Città",
+        "pronunciation": "chit-TA",
+        "meaning": "Shahar"
+      },
+      {
+        "word": "Villaggio",
+        "pronunciation": "vil-LAD-jo",
+        "meaning": "Qishloq"
+      },
+      {
+        "word": "Scuola",
+        "pronunciation": "SKWO-la",
+        "meaning": "Maktab"
+      },
+      {
+        "word": "Ospedale",
+        "pronunciation": "os-pe-DA-le",
+        "meaning": "Kasalxona"
+      },
+      {
+        "word": "Mercato",
+        "pronunciation": "mer-KA-to",
+        "meaning": "Bozor"
+      },
+      {
+        "word": "Aeroporto",
+        "pronunciation": "a-e-ro-POR-to",
+        "meaning": "Aeroport"
+      },
+      {
+        "word": "Strada",
+        "pronunciation": "STRA-da",
+        "meaning": "Ko'cha"
+      },
+      {
+        "word": "Parco",
+        "pronunciation": "PAR-ko",
+        "meaning": "Bog'"
+      },
+      {
+        "word": "Ristorante",
+        "pronunciation": "ris-to-RAN-te",
+        "meaning": "Restoran"
+      },
+      {
+        "word": "Banca",
+        "pronunciation": "BAN-ka",
+        "meaning": "Bank"
+      }
+    ],
+    "Sifatlar": [
+      {
+        "word": "Grande",
+        "pronunciation": "GRAN-de",
+        "meaning": "Katta"
+      },
+      {
+        "word": "Piccolo",
+        "pronunciation": "PEEK-ko-lo",
+        "meaning": "Kichik"
+      },
+      {
+        "word": "Buono",
+        "pronunciation": "BWO-no",
+        "meaning": "Yaxshi"
+      },
+      {
+        "word": "Cattivo",
+        "pronunciation": "kat-TEE-vo",
+        "meaning": "Yomon"
+      },
+      {
+        "word": "Nuovo",
+        "pronunciation": "NWO-vo",
+        "meaning": "Yangi"
+      },
+      {
+        "word": "Vecchio",
+        "pronunciation": "VEK-kyo",
+        "meaning": "Eski"
+      },
+      {
+        "word": "Veloce",
+        "pronunciation": "ve-LO-che",
+        "meaning": "Tez"
+      },
+      {
+        "word": "Lento",
+        "pronunciation": "LEN-to",
+        "meaning": "Sekin"
+      },
+      {
+        "word": "Bello",
+        "pronunciation": "BEL-lo",
+        "meaning": "Chiroyli"
+      },
+      {
+        "word": "Difficile",
+        "pronunciation": "dif-FEE-chi-le",
+        "meaning": "Qiyin"
+      }
+    ],
+    "Fe'llar": [
+      {
+        "word": "Andare",
+        "pronunciation": "an-DA-re",
+        "meaning": "Bormoq"
+      },
+      {
+        "word": "Venire",
+        "pronunciation": "ve-NEE-re",
+        "meaning": "Kelmoq"
+      },
+      {
+        "word": "Mangiare",
+        "pronunciation": "man-JA-re",
+        "meaning": "Yemoq"
+      },
+      {
+        "word": "Bere",
+        "pronunciation": "BE-re",
+        "meaning": "Ichmoq"
+      },
+      {
+        "word": "Dormire",
+        "pronunciation": "dor-MEE-re",
+        "meaning": "Uxlamoq"
+      },
+      {
+        "word": "Lavorare",
+        "pronunciation": "la-vo-RA-re",
+        "meaning": "Ishlamoq"
+      },
+      {
+        "word": "Leggere",
+        "pronunciation": "LED-je-re",
+        "meaning": "O'qimoq"
+      },
+      {
+        "word": "Scrivere",
+        "pronunciation": "SKREE-ve-re",
+        "meaning": "Yozmoq"
+      },
+      {
+        "word": "Parlare",
+        "pronunciation": "par-LA-re",
+        "meaning": "Gapirmoq"
+      },
+      {
+        "word": "Vedere",
+        "pronunciation": "ve-DE-re",
+        "meaning": "Ko'rmoq"
+      },
+      {
+        "word": "Volere",
+        "pronunciation": "vo-LE-re",
+        "meaning": "Xohlamoq"
+      },
+      {
+        "word": "Amare",
+        "pronunciation": "a-MA-re",
+        "meaning": "Sevmoq"
+      },
+      {
+        "word": "Sapere",
+        "pronunciation": "sa-PE-re",
+        "meaning": "Bilmoq"
+      },
+      {
+        "word": "Fare",
+        "pronunciation": "FA-re",
+        "meaning": "Qilmoq"
+      },
+      {
+        "word": "Dare",
+        "pronunciation": "DA-re",
+        "meaning": "Bermoq"
+      }
+    ]
+  }
+}
