@@ -1,0 +1,163 @@
+{
+  "ingliz": {
+    "Salomlashish": [
+      {"word": "Hello", "pronunciation": "heh-LOH", "meaning": "Salom"},
+      {"word": "Goodbye", "pronunciation": "good-BAI", "meaning": "Xayr"},
+      {"word": "Thank you", "pronunciation": "THANK-yoo", "meaning": "Rahmat"},
+      {"word": "Please", "pronunciation": "pleez", "meaning": "Iltimos"},
+      {"word": "Excuse me", "pronunciation": "ek-SKYOOZ mee", "meaning": "Kechirasiz"}
+    ],
+    "Oila": [
+      {"word": "Mother", "pronunciation": "MA-dhuh", "meaning": "Ona"},
+      {"word": "Father", "pronunciation": "FAA-dhuh", "meaning": "Ota"},
+      {"word": "Sister", "pronunciation": "SIS-tuh", "meaning": "Opa/Singil"},
+      {"word": "Brother", "pronunciation": "BRA-dhuh", "meaning": "Aka/Uka"},
+      {"word": "Child", "pronunciation": "chaild", "meaning": "Bola"}
+    ],
+    "Ovqat-ichimlik": [
+      {"word": "Bread", "pronunciation": "bred", "meaning": "Non"},
+      {"word": "Water", "pronunciation": "WAW-tuh", "meaning": "Suv"},
+      {"word": "Coffee", "pronunciation": "KAW-fee", "meaning": "Qahva"},
+      {"word": "Apple", "pronunciation": "AP-uhl", "meaning": "Olma"},
+      {"word": "Rice", "pronunciation": "rais", "meaning": "Guruch"}
+    ]
+  },
+  "rus": {
+    "Salomlashish": [
+      {"word": "Привет", "pronunciation": "Privet", "meaning": "Salom (norasmiy)"},
+      {"word": "До свидания", "pronunciation": "Da svidaniya", "meaning": "Xayr"},
+      {"word": "Спасибо", "pronunciation": "Spasibo", "meaning": "Rahmat"},
+      {"word": "Пожалуйста", "pronunciation": "Pazhalsta", "meaning": "Iltimos / Marhamat"},
+      {"word": "Извините", "pronunciation": "Izvinite", "meaning": "Kechirasiz"}
+    ],
+    "Oila": [
+      {"word": "Мама", "pronunciation": "Mama", "meaning": "Ona"},
+      {"word": "Папа", "pronunciation": "Papa", "meaning": "Ota"},
+      {"word": "Сестра", "pronunciation": "Sestra", "meaning": "Opa/Singil"},
+      {"word": "Брат", "pronunciation": "Brat", "meaning": "Aka/Uka"},
+      {"word": "Ребёнок", "pronunciation": "Rebyonok", "meaning": "Bola"}
+    ],
+    "Ovqat-ichimlik": [
+      {"word": "Хлеб", "pronunciation": "Khleb", "meaning": "Non"},
+      {"word": "Вода", "pronunciation": "Voda", "meaning": "Suv"},
+      {"word": "Кофе", "pronunciation": "Kofe", "meaning": "Qahva"},
+      {"word": "Яблоко", "pronunciation": "Yabloko", "meaning": "Olma"},
+      {"word": "Рис", "pronunciation": "Ris", "meaning": "Guruch"}
+    ]
+  },
+  "ispan": {
+    "Salomlashish": [
+      {"word": "Hola", "pronunciation": "OH-la", "meaning": "Salom"},
+      {"word": "Adiós", "pronunciation": "a-DYOS", "meaning": "Xayr"},
+      {"word": "Gracias", "pronunciation": "GRA-syas", "meaning": "Rahmat"},
+      {"word": "Por favor", "pronunciation": "por fa-VOR", "meaning": "Iltimos"},
+      {"word": "Perdón", "pronunciation": "per-DON", "meaning": "Kechirasiz"}
+    ],
+    "Oila": [
+      {"word": "Madre", "pronunciation": "MA-dre", "meaning": "Ona"},
+      {"word": "Padre", "pronunciation": "PA-dre", "meaning": "Ota"},
+      {"word": "Hermana", "pronunciation": "er-MA-na", "meaning": "Opa/Singil"},
+      {"word": "Hermano", "pronunciation": "er-MA-no", "meaning": "Aka/Uka"},
+      {"word": "Niño", "pronunciation": "NEE-nyo", "meaning": "Bola"}
+    ],
+    "Ovqat-ichimlik": [
+      {"word": "Pan", "pronunciation": "pan", "meaning": "Non"},
+      {"word": "Agua", "pronunciation": "A-gwa", "meaning": "Suv"},
+      {"word": "Café", "pronunciation": "ka-FE", "meaning": "Qahva"},
+      {"word": "Manzana", "pronunciation": "man-SA-na", "meaning": "Olma"},
+      {"word": "Arroz", "pronunciation": "a-RROS", "meaning": "Guruch"}
+    ]
+  },
+  "turk": {
+    "Salomlashish": [
+      {"word": "Merhaba", "pronunciation": "mer-ha-BA", "meaning": "Salom"},
+      {"word": "Hoşça kal", "pronunciation": "hosh-cha KAL", "meaning": "Xayr"},
+      {"word": "Teşekkürler", "pronunciation": "te-shek-kyur-LER", "meaning": "Rahmat"},
+      {"word": "Lütfen", "pronunciation": "lyut-FEN", "meaning": "Iltimos"},
+      {"word": "Affedersiniz", "pronunciation": "af-fe-der-si-NIZ", "meaning": "Kechirasiz"}
+    ],
+    "Oila": [
+      {"word": "Anne", "pronunciation": "an-NE", "meaning": "Ona"},
+      {"word": "Baba", "pronunciation": "ba-BA", "meaning": "Ota"},
+      {"word": "Abla", "pronunciation": "ab-LA", "meaning": "Opa"},
+      {"word": "Kardeş", "pronunciation": "kar-DESH", "meaning": "Aka/Uka"},
+      {"word": "Çocuk", "pronunciation": "cho-JUK", "meaning": "Bola"}
+    ],
+    "Ovqat-ichimlik": [
+      {"word": "Ekmek", "pronunciation": "ek-MEK", "meaning": "Non"},
+      {"word": "Su", "pronunciation": "su", "meaning": "Suv"},
+      {"word": "Kahve", "pronunciation": "kah-VE", "meaning": "Qahva"},
+      {"word": "Elma", "pronunciation": "el-MA", "meaning": "Olma"},
+      {"word": "Pirinç", "pronunciation": "pi-RINCH", "meaning": "Guruch"}
+    ]
+  },
+  "nemis": {
+    "Salomlashish": [
+      {"word": "Hallo", "pronunciation": "HA-lo", "meaning": "Salom"},
+      {"word": "Auf Wiedersehen", "pronunciation": "owf VEE-der-zeh-en", "meaning": "Xayr"},
+      {"word": "Danke", "pronunciation": "DAN-ke", "meaning": "Rahmat"},
+      {"word": "Bitte", "pronunciation": "BIT-te", "meaning": "Iltimos / Marhamat"},
+      {"word": "Entschuldigung", "pronunciation": "ent-SHOOL-di-gung", "meaning": "Kechirasiz"}
+    ],
+    "Oila": [
+      {"word": "Mutter", "pronunciation": "MUT-tuh", "meaning": "Ona"},
+      {"word": "Vater", "pronunciation": "FAA-tuh", "meaning": "Ota"},
+      {"word": "Schwester", "pronunciation": "SHVES-tuh", "meaning": "Opa/Singil"},
+      {"word": "Bruder", "pronunciation": "BROO-duh", "meaning": "Aka/Uka"},
+      {"word": "Kind", "pronunciation": "kint", "meaning": "Bola"}
+    ],
+    "Ovqat-ichimlik": [
+      {"word": "Brot", "pronunciation": "broht", "meaning": "Non"},
+      {"word": "Wasser", "pronunciation": "VAS-suh", "meaning": "Suv"},
+      {"word": "Kaffee", "pronunciation": "ka-FEH", "meaning": "Qahva"},
+      {"word": "Apfel", "pronunciation": "AP-fel", "meaning": "Olma"},
+      {"word": "Reis", "pronunciation": "rais", "meaning": "Guruch"}
+    ]
+  },
+  "xitoy": {
+    "Salomlashish": [
+      {"word": "你好", "pronunciation": "Nǐ hǎo", "meaning": "Salom"},
+      {"word": "再见", "pronunciation": "Zàijiàn", "meaning": "Xayr"},
+      {"word": "谢谢", "pronunciation": "Xièxiè", "meaning": "Rahmat"},
+      {"word": "请", "pronunciation": "Qǐng", "meaning": "Iltimos"},
+      {"word": "对不起", "pronunciation": "Duìbùqǐ", "meaning": "Kechirasiz"}
+    ],
+    "Oila": [
+      {"word": "妈妈", "pronunciation": "Māma", "meaning": "Ona"},
+      {"word": "爸爸", "pronunciation": "Bàba", "meaning": "Ota"},
+      {"word": "姐姐", "pronunciation": "Jiějiě", "meaning": "Opa"},
+      {"word": "哥哥", "pronunciation": "Gēge", "meaning": "Aka"},
+      {"word": "孩子", "pronunciation": "Háizi", "meaning": "Bola"}
+    ],
+    "Ovqat-ichimlik": [
+      {"word": "面包", "pronunciation": "Miànbāo", "meaning": "Non"},
+      {"word": "水", "pronunciation": "Shuǐ", "meaning": "Suv"},
+      {"word": "咖啡", "pronunciation": "Kāfēi", "meaning": "Qahva"},
+      {"word": "苹果", "pronunciation": "Píngguǒ", "meaning": "Olma"},
+      {"word": "米饭", "pronunciation": "Mǐfàn", "meaning": "Guruch (pishirilgan)"}
+    ]
+  },
+  "italyan": {
+    "Salomlashish": [
+      {"word": "Ciao", "pronunciation": "CHAH-o", "meaning": "Salom / Xayr (norasmiy)"},
+      {"word": "Arrivederci", "pronunciation": "ar-ri-ve-DER-chi", "meaning": "Xayr (rasmiy)"},
+      {"word": "Grazie", "pronunciation": "GRA-tsye", "meaning": "Rahmat"},
+      {"word": "Per favore", "pronunciation": "per fa-VO-re", "meaning": "Iltimos"},
+      {"word": "Scusa", "pronunciation": "SKOO-za", "meaning": "Kechirasiz"}
+    ],
+    "Oila": [
+      {"word": "Madre", "pronunciation": "MA-dre", "meaning": "Ona"},
+      {"word": "Padre", "pronunciation": "PA-dre", "meaning": "Ota"},
+      {"word": "Sorella", "pronunciation": "so-REL-la", "meaning": "Opa/Singil"},
+      {"word": "Fratello", "pronunciation": "fra-TEL-lo", "meaning": "Aka/Uka"},
+      {"word": "Bambino", "pronunciation": "bam-BEE-no", "meaning": "Bola"}
+    ],
+    "Ovqat-ichimlik": [
+      {"word": "Pane", "pronunciation": "PA-ne", "meaning": "Non"},
+      {"word": "Acqua", "pronunciation": "AK-kwa", "meaning": "Suv"},
+      {"word": "Caffè", "pronunciation": "kaf-FEH", "meaning": "Qahva"},
+      {"word": "Mela", "pronunciation": "ME-la", "meaning": "Olma"},
+      {"word": "Riso", "pronunciation": "REE-zo", "meaning": "Guruch"}
+    ]
+  }
+}
