@@ -1,0 +1,128 @@
+{
+  "ingliz": [
+    {
+      "title": "Present Simple (Oddiy hozirgi zamon)",
+      "body": "Odatiy harakatlar, faktlar va jadval bo'yicha sodir bo'ladigan ishlarni ifodalaydi.\n\n<b>Tuzilishi:</b> I/You/We/They + fe'l (asosiy shakl); He/She/It + fe'l + s/es.\n\n<b>Misollar:</b>\n• I work every day. (Men har kuni ishlayman.)\n• She works in a bank. (U bankda ishlaydi.)\n• The shop opens at 9. (Do'kon soat 9da ochiladi.)"
+    },
+    {
+      "title": "Present Continuous (Davomli hozirgi zamon)",
+      "body": "Hozir sodir bo'layotgan yoki yaqin kelajakda rejalashtirilgan harakatni bildiradi.\n\n<b>Tuzilishi:</b> am/is/are + fe'l + ing.\n\n<b>Misollar:</b>\n• I am studying English now. (Men hozir ingliz tilini o'qiyapman.)\n• They are coming tomorrow. (Ular ertaga kelmoqchi.)"
+    },
+    {
+      "title": "Past Simple (Oddiy o'tgan zamon)",
+      "body": "Tugallangan o'tgan harakatni ifodalaydi.\n\n<b>Tuzilishi:</b> muntazam fe'llarga -ed qo'shiladi (worked, played); noto'g'ri fe'llar maxsus shaklga ega (go → went, see → saw).\n\n<b>Misollar:</b>\n• I visited my grandmother last week.\n• She went to Tashkent yesterday."
+    },
+    {
+      "title": "Future: will / going to",
+      "body": "Kelajakni ifodalashning ikki asosiy yo'li.\n\n<b>will + fe'l</b> — bashorat yoki spontan qaror: It will rain tomorrow.\n\n<b>be going to + fe'l</b> — oldindan rejalashtirilgan reja: I am going to study abroad next year."
+    }
+  ],
+  "rus": [
+    {
+      "title": "Kelishiklar (Падежи) haqida umumiy tushuncha",
+      "body": "Rus tilida 6 ta kelishik bor, har biri otning gapdagi vazifasini ko'rsatadi va otning oxiri o'zgaradi:\n\n• Именительный — ega (kim? nima?)\n• Родительный — qaratqich (kimning? nimaning?)\n• Дательный — jo'nalish (kimga? nimaga?)\n• Винительный — tushum (kimni? nimani?)\n• Творительный — vosita (kim bilan? nima bilan?)\n• Предложный — o'rin/mavzu (kim haqida? nima haqida?)"
+    },
+    {
+      "title": "Fe'llarning hozirgi zamondagi tuslanishi",
+      "body": "Fe'llar 2 guruhga bo'linadi:\n\n<b>I tuslanish</b> (-у/-ю, -ешь, -ет, -ем, -ете, -ют): я работаю, ты работаешь, он работает.\n\n<b>II tuslanish</b> (-у/-ю, -ишь, -ит, -им, -ите, -ят): я говорю, ты говоришь, он говорит."
+    },
+    {
+      "title": "Aspekt: tugallangan va tugallanmagan fe'llar",
+      "body": "Rus tilida har bir fe'lning ikki shakli bor:\n\n<b>Несовершенный вид</b> (tugallanmagan) — jarayon yoki takrorlanuvchi harakat: читать (o'qish, jarayon).\n\n<b>Совершенный вид</b> (tugallangan) — natijaga erishilgan, bir martalik harakat: прочитать (o'qib bo'lish)."
+    },
+    {
+      "title": "Ot va sifatlarning jins (род) bo'yicha moslashuvi",
+      "body": "Otlar 3 jinsga bo'linadi: muzhskoy (erkak — он), zhenskiy (ayol — она), sredniy (o'rta — оно). Sifat ot bilan jins, son va kelishikda moslashadi: новый дом (m), новая книга (f), новое окно (n)."
+    }
+  ],
+  "ispan": [
+    {
+      "title": "Hozirgi zamon fe'l tuslanishi (-ar, -er, -ir)",
+      "body": "Ispan fe'llari 3 guruhga bo'linadi va shaxsga qarab oxiri o'zgaradi.\n\n<b>-AR</b> (hablar): hablo, hablas, habla, hablamos, habláis, hablan.\n<b>-ER</b> (comer): como, comes, come, comemos, coméis, comen.\n<b>-IR</b> (vivir): vivo, vives, vive, vivimos, vivís, viven."
+    },
+    {
+      "title": "Ser va Estar farqi",
+      "body": "Ikkisi ham \"bo'lmoq\" degan ma'noni beradi, lekin farqlanadi:\n\n<b>Ser</b> — doimiy xususiyat: Soy estudiante. (Men talabaman.)\n<b>Estar</b> — vaqtinchalik holat yoki joylashuv: Estoy cansado. (Men charchaganman.)"
+    },
+    {
+      "title": "O'tgan zamon: Pretérito va Imperfecto",
+      "body": "<b>Pretérito</b> — aniq tugagan, bir martalik o'tgan harakat: Ayer comí pizza.\n\n<b>Imperfecto</b> — o'tmishda davom etgan yoki odatiy harakat: Cuando era niño, jugaba en el parque."
+    },
+    {
+      "title": "Ot va sifatlarning jins va son bo'yicha moslashuvi",
+      "body": "Otlar erkak (-o, el) yoki ayol (-a, la) jinsida bo'ladi. Sifat ot bilan moslashadi: el libro rojo, la casa roja. Ko'plik uchun -s/-es qo'shiladi: libros, casas."
+    }
+  ],
+  "turk": [
+    {
+      "title": "Unli uyg'unligi (Ünlü uyumu)",
+      "body": "Turkcha so'zlarga qo'shimcha qo'shilganda, qo'shimchadagi unli so'z tarkibidagi oxirgi unliga moslashadi (old/orqa, lablangan/lablanmagan qatorlar bo'yicha).\n\nMisol: ev-ler (uylar), kitap-lar (kitoblar) — lekin göz-ler (ko'zlar), kol-lar emas — qoidaga mos tushadi."
+    },
+    {
+      "title": "Kelishik qo'shimchalari",
+      "body": "• -de/-da — o'rin: evde (uyda)\n• -e/-a — jo'nalish: eve (uyga)\n• -den/-dan — chiqish: evden (uydan)\n• -i/-ı — tushum: evi (uyni)\n\nQo'shimcha tanlovi so'zdagi unliga (unli uyg'unligi) bog'liq."
+    },
+    {
+      "title": "Hozirgi-davomli zamon (-yor)",
+      "body": "Hozir davom etayotgan harakatni bildiradi.\n\n<b>Tuzilishi:</b> fe'l negizi + -yor + shaxs qo'shimchasi.\n\nMisol: gel-iyor-um (kelayapman), gid-iyor-sun (ketayapsan), yaz-ıyor (yozayapti)."
+    },
+    {
+      "title": "Egalik qo'shimchalari",
+      "body": "Egalikni bildirish uchun otga qo'shimcha qo'shiladi:\n\nbenim kitabım (mening kitobim), senin kitabın (sening kitobing), onun kitabı (uning kitobi), bizim kitabımız (bizning kitobimiz)."
+    }
+  ],
+  "nemis": [
+    {
+      "title": "Kelishiklar: Nominativ, Akkusativ, Dativ, Genitiv",
+      "body": "Nemis tilida 4 kelishik bor, artikl (der/die/das) kelishikka qarab o'zgaradi:\n\n• <b>Nominativ</b> — ega: der Mann\n• <b>Akkusativ</b> — to'g'ri to'ldiruvchi: den Mann\n• <b>Dativ</b> — jo'nalish to'ldiruvchisi: dem Mann\n• <b>Genitiv</b> — qaratqich: des Mannes"
+    },
+    {
+      "title": "Fe'llarning hozirgi zamondagi tuslanishi",
+      "body": "<b>Tuzilishi:</b> ich -e, du -st, er/sie/es -t, wir -en, ihr -t, sie -en.\n\nMisol (machen): ich mache, du machst, er macht, wir machen, ihr macht, sie machen."
+    },
+    {
+      "title": "Artikllar: der, die, das",
+      "body": "Har bir ot o'z jinsiga ega: der (erkak), die (ayol), das (o'rta). Jins ko'pincha so'zning ma'nosi yoki oxiriga qarab aniqlanadi, lekin yodlash kerak bo'ladigan ko'p istisnolar ham bor: der Tisch, die Lampe, das Buch."
+    },
+    {
+      "title": "Ajraladigan fe'llar (Trennbare Verben)",
+      "body": "Ba'zi fe'llar old qo'shimchaga ega va gapda ikkiga bo'linadi — old qo'shimcha gap oxiriga ko'chadi.\n\nMisol: aufstehen (turmoq) → Ich stehe um 7 Uhr auf. (Men soat 7da turaman.)"
+    }
+  ],
+  "xitoy": [
+    {
+      "title": "Gap tuzilishi: Ega-Kesim-To'ldiruvchi (SVO)",
+      "body": "Xitoy tilida fe'l shaxs/songa qarab o'zgarmaydi. Gap tartibi: Ega + Fe'l + To'ldiruvchi.\n\nMisol: 我吃苹果 (Wǒ chī píngguǒ) — Men olma yeyman. (我=men, 吃=yeyman, 苹果=olma)"
+    },
+    {
+      "title": "O'lchov so'zlari (Classifier so'zlar)",
+      "body": "Har bir ot oldidan son kelganda, o'rtada maxsus \"o'lchov so'zi\" qo'shiladi.\n\n• 个 (gè) — eng keng tarqalgan, ko'p narsalar uchun\n• 本 (běn) — kitoblar uchun\n• 只 (zhī) — hayvonlar uchun\n\nMisol: 一个人 (yí gè rén) — bir kishi."
+    },
+    {
+      "title": "Aspekt zarrachalari: 了, 过, 着",
+      "body": "• <b>了 (le)</b> — harakat tugallanganini bildiradi: 我吃了 (men yedim)\n• <b>过 (guò)</b> — o'tmishdagi tajriba: 我去过中国 (men Xitoyga borgan edim)\n• <b>着 (zhe)</b> — davom etayotgan holat: 他坐着 (u o'tirgan holatda)"
+    },
+    {
+      "title": "Vaqt ifodalarining gapdagi o'rni",
+      "body": "Xitoy tilida vaqt ifodalari odatda fe'ldan OLDIN keladi (ingliz tilidan farqli).\n\nMisol: 我明天去学校 (Wǒ míngtiān qù xuéxiào) — Men ertaga maktabga boraman. (明天=ertaga, fe'l 去 dan oldin turadi)"
+    }
+  ],
+  "italyan": [
+    {
+      "title": "Hozirgi zamon fe'l tuslanishi (-are, -ere, -ire)",
+      "body": "Italyan fe'llari 3 guruhga bo'linadi.\n\n<b>-ARE</b> (parlare): parlo, parli, parla, parliamo, parlate, parlano.\n<b>-ERE</b> (vedere): vedo, vedi, vede, vediamo, vedete, vedono.\n<b>-IRE</b> (dormire): dormo, dormi, dorme, dormiamo, dormite, dormono."
+    },
+    {
+      "title": "Artikllar: il, la, lo, gli, le",
+      "body": "Aniq artikllar otning jinsi va soniga qarab tanlanadi:\n\n• il (erkak, birlik): il libro\n• la (ayol, birlik): la casa\n• lo (unli/s+undosh oldidan, erkak): lo zaino\n• i / gli (erkak ko'plik): i libri, gli amici\n• le (ayol ko'plik): le case"
+    },
+    {
+      "title": "O'tgan zamon: Passato Prossimo",
+      "body": "Tugallangan o'tgan harakatni bildiradi.\n\n<b>Tuzilishi:</b> avere/essere (hozirgi zamonda) + Past Participle.\n\nMisol: Ho mangiato la pasta. (Men pasta yedim.) Lui è andato a casa. (U uyga ketdi — harakat fe'llarida essere ishlatiladi.)"
+    },
+    {
+      "title": "Ot va sifatlarning jins va son bo'yicha moslashuvi",
+      "body": "Otlar va sifatlar jins (-o erkak, -a ayol) va son (-i/-e ko'plik) bo'yicha moslashadi: il ragazzo alto, la ragazza alta, i ragazzi alti, le ragazze alte."
+    }
+  ]
+}
